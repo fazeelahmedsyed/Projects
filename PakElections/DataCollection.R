@@ -80,7 +80,7 @@ colnames(results) <- c("Name", "Party", "Votes", "Seat","City","Year")
 
 year <- 2013
 
-for (seat in 142:272){
+for (seat in 270:272){
         
         link <- paste("http://www.electionpakistani.com/ge", year, "/NA-", seat, ".htm", sep ="")
         rawdata <- getURL(link, cainfo = cert)
@@ -88,6 +88,7 @@ for (seat in 142:272){
         gob <- read_html(rawdata)
         
         city <- html_nodes(gob, xpath = "//h3/font/text()")
+        #for seat 237- >>>> city <- html_nodes(gob, xpath = "//table[@class = 'MsoNormalTable']/preceding::p[1]")
         city <- as.character(city)
         city <- paste(city, collapse = "")
         city <- gsub(".*NA\\d{1,3} ","", city)
@@ -97,11 +98,14 @@ for (seat in 142:272){
         city <- gsub(" General.*","", city)
         city <- gsub(" \\d{4}$","",city)
         city <- gsub("^ ","", city)
+        city <- gsub(" of By","", city)
         
-        table <- html_nodes(gob, xpath = "//h3/following-sibling::table")
-        #for seat 38 >>>> table <- html_nodes(gob, xpath = "//table[@id = 'AutoNumber1']")
+        #table <- html_nodes(gob, xpath = "//h3/following-sibling::table")
+        #for seat 38 & 254 & 269 >>>> table <- html_nodes(gob, xpath = "//table[@id = 'AutoNumber1']")
         #for seat 141 >>>> table <- html_nodes(gob, xpath = "//h2/following-sibling::table")
-        #for seat 141>>>>>table <- html_table((table[2])) %>% .[[1]] %>% .[-1,]
+        #for seat 141 >>>> table <- html_table((table[2])) %>% .[[1]] %>% .[-1,]
+        #for seat 237 - >>>
+        table <- html_nodes(gob, xpath = "//table[@class = 'MsoNormalTable']")
         table <- html_table((table)) %>% .[[1]] %>% .[-1,]
         table[,1] <- gsub(".\n","", table[,1])
         table[,1] <- gsub("\t","", table[,1])
@@ -113,3 +117,5 @@ for (seat in 142:272){
         results <- rbind(results, table)
         Sys.sleep(3)
 }
+
+colnames(results) <- c("Name","Party","Votes","Seat","City","Year")

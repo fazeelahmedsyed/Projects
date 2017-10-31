@@ -1,0 +1,1962 @@
+"X1","X2","X3","rep(seat, nrow(table))","rep(city, nrow(table))","rep(year, nrow(table))"
+"Imran Khan","PTI","90434",1,"Peshawar",2013
+"Alhaj GhulamhAhmad Bilour","ANP","24449",1,"Peshawar",2013
+"MuhammadhZulfiqar Afghani","PPP-P","7116",1,"Peshawar",2013
+"Shabir AhmadhKhan","JI","7034",1,"Peshawar",2013
+"Hazrat Muhammadhalias Babo Maavia","MDM","4825",1,"Peshawar",2013
+"Haji Shah Nawaz","JUI-F","4729",1,"Peshawar",2013
+"Muhammad AfzalhKhan Panyala","PML-N","4230",1,"Peshawar",2013
+"Jan Alam KhanhParacha","QWP","1964",1,"Peshawar",2013
+"Amir Syed","PPP-SB","454",1,"Peshawar",2013
+"Pir Abdur Rehman","Independent","265",1,"Peshawar",2013
+"Akram Khan","Independent","182",1,"Peshawar",2013
+"Bashir AhmadhAfridi","MQM","117",1,"Peshawar",2013
+"Syed MuhammadhSibtain Taj Agha","JUP-N","100",1,"Peshawar",2013
+"Aamir ShehzadhHashmi","MP","77",1,"Peshawar",2013
+"Khalid TanveerhRohela Advocate","PML-J","70",1,"Peshawar",2013
+"HidayatullahhKhan Afridi Advocate","Independent","61",1,"Peshawar",2013
+"Tariq Saeed","PHRP","45",1,"Peshawar",2013
+"Moeen ud Din","JUI-N","42",1,"Peshawar",2013
+"Sajid Nawaz","PTI","67214",3,"Peshawar",2013
+"Haji Ghulam Ali","JUI-F","27987",3,"Peshawar",2013
+"Engineer IqbalZafar Jhagra","PMl-N","22370",3,"Peshawar",2013
+"Noor Alam Khan","PPP-P","22045",3,"Peshawar",2013
+"Israr UllahAdvocate","JI","11954",3,"Peshawar",2013
+"Muhammad HashamBabar","Independent","6449",3,"Peshawar",2013
+"Arbab Inam UllahKhan","ANP","5902",3,"Peshawar",2013
+"Muhammad Zaman","QWP","2257",3,"Peshawar",2013
+"Aman Ullah KhanKanriza","TTP","1965",3,"Peshawar",2013
+"Sardar Ali","Independent","885",3,"Peshawar",2013
+"Fiza Tariq","Independent","680",3,"Peshawar",2013
+"Tabana","Independent","501",3,"Peshawar",2013
+"Malik Javed Khan","MQM","489",3,"Peshawar",2013
+"Doctor MalikShoukat Ali Khan","PML-Q","455",3,"Peshawar",2013
+"Muhammad FayyazKhan","Independent","438",3,"Peshawar",2013
+"Umar Said Khan","Independent","270",3,"Peshawar",2013
+"Malik FirdosKhan","Independent","260",3,"Peshawar",2013
+"Usman KhanTarrakai","AJIP","56148",12,"Swabi",2013
+"Rehmanullah","ANP","35957",12,"Swabi",2013
+"Ishfaq Ullah KhanDargai","JUI-F","21485",12,"Swabi",2013
+"Anwar Haqdad","PTI","19557",12,"Swabi",2013
+"Muhammad Israr","PML-N","7149",12,"Swabi",2013
+"Ahmad MustafaKhan","PPP-P","4944",12,"Swabi",2013
+"Mian Saleem Akbar","JI","2148",12,"Swabi",2013
+"Shah Faisal Khan","Independent","850",12,"Swabi",2013
+"Khalid Ibrar","APML","384",12,"Swabi",2013
+"Amanullah","Independent","360",12,"Swabi",2013
+"Abdul Hakam","MDM","329",12,"Swabi",2013
+"Murad Ali","PKMAP","242",12,"Swabi",2013
+"Shahid Ahmad","PJP","203",12,"Swabi",2013
+"Khan Zada","AWP","152",12,"Swabi",2013
+"Said MukhtiarAhmad Bacha","Independent","151",12,"Swabi",2013
+"Asad Qaisar","PTI","48416",13,"Swabi",2013
+"Moulana AttaulHaq Darwaish","JUI-F","28518",13,"Swabi",2013
+"Iftikhar AhmedKhan","PML-N","21338",13,"Swabi",2013
+"Shahram KhanTarkai","AJIP","14410",13,"Swabi",2013
+"Muhammad SarwarKhan","ANP","14137",13,"Swabi",2013
+"Mulana KhalilAhmed","JUI-N","7722",13,"Swabi",2013
+"Muhammad Naeem","PPP-P","6818",13,"Swabi",2013
+"Ameer NawazKhan","JI","4846",13,"Swabi",2013
+"Shahab Advocate","TTP","4267",13,"Swabi",2013
+"Shahid Khan","Independent","1164",13,"Swabi",2013
+"Shamsul Qamar","Independent","1076",13,"Swabi",2013
+"Muhammad Kaleem","Independent","585",13,"Swabi",2013
+"Abdul RasheedYousafzai","PPM","454",13,"Swabi",2013
+"Muhammad UsmanKhan","PKMAP","395",13,"Swabi",2013
+"Inamullah","JPP","380",13,"Swabi",2013
+"Muhammad Jamil","MDM","252",13,"Swabi",2013
+"Said Anwar Shah","Independent","198",13,"Swabi",2013
+"Hakeem Khan","AWP","110",13,"Swabi",2013
+"ShehryarAfridi","PTI","61742",14,"Kohat",2013
+"Gohar MohammadKhan Bungesh","JUI-F","31886",14,"Kohat",2013
+"Shameem Afridi","Independent","19056",14,"Kohat",2013
+"Malik Asad","PML-N","13670",14,"Kohat",2013
+"Pir DilawarShah","PPP-P","9982",14,"Kohat",2013
+"MaulanaUbaidullah Haidri","MDM","9192",14,"Kohat",2013
+"Khursheed BegumSaeed","ANP","7192",14,"Kohat",2013
+"Badshah Gul","Independent","4806",14,"Kohat",2013
+"Pir MuhammadFaheem","JI","3556",14,"Kohat",2013
+"Asif Iqbal","TTP","498",14,"Kohat",2013
+"Doctor MuhammadIhsanullah","Independent","471",14,"Kohat",2013
+"NajeebullahDurrani","QWP","414",14,"Kohat",2013
+"Muhammad NawazKhan","PKMAP","312",14,"Kohat",2013
+"Nazia Zulfiqar","Independent","254",14,"Kohat",2013
+"Sher RehmanKhattak","Independent","151",14,"Kohat",2013
+"Abdul QadeerKhan","MQM","130",14,"Kohat",2013
+"Nasir KhanKhattak","PTI","51278",15,"Karak",2013
+"Rehmat SalamKhattak","PML-N","29290",15,"Karak",2013
+"Moulana ShahAbdul Aziz","MDM","29088",15,"Karak",2013
+"Masood SharifKhan Khattak","Independent","15521",15,"Karak",2013
+"Mufti MuhammadSardar","JUI-F","13215",15,"Karak",2013
+"Muhammad SharifKhattak","ANP","7330",15,"Karak",2013
+"MuhammadTasleem Iqbal","JI","5087",15,"Karak",2013
+"Muhammad ShahJehan","PPP-P","2252",15,"Karak",2013
+"Altaf Qadir","Independent","1130",15,"Karak",2013
+"Muhammad UmerKhattak","Independent","1091",15,"Karak",2013
+"Munir KhanKhattak","Independent","590",15,"Karak",2013
+"Asif Noor","Independent","461",15,"Karak",2013
+"Brigadier (R)Sakhi Marjan","Independent","409",15,"Karak",2013
+"Rafi UllahKhatak","PKMAP","387",15,"Karak",2013
+"Muhammad Sadiq","TTP","340",15,"Karak",2013
+"Asad Ullah Shah","MQM","327",15,"Karak",2013
+"Shahenshah","Independent","260",15,"Karak",2013
+"Jamal Khan","Independent","99",15,"Karak",2013
+"Moulana ShadMuhammad Khan","JUI-N","93",15,"Karak",2013
+"Altaf AhmadAzad","Independent","83",15,"Karak",2013
+"Shams ur RehmanKhattak","Independent","62",15,"Karak",2013
+"Khial ZamanOrakzai","PTI","23903",16,"Hangu",2013
+"Maulana MianHussain Jalali","JUI-F","21031",16,"Hangu",2013
+"Malik KhalidNaeem","PML-N","5313",16,"Hangu",2013
+"Syed Ibne Ali","PPP-P","4678",16,"Hangu",2013
+"Syed Haider AliShah","ANP","4465",16,"Hangu",2013
+"Muhammad Aslam","JI","1758",16,"Hangu",2013
+"Arif Hussain","Independent","1318",16,"Hangu",2013
+"Azeem Ullah","Independent","813",16,"Hangu",2013
+"Hassan AhmedKhan","Independent","465",16,"Hangu",2013
+"Umar Fayaz","Independent","382",16,"Hangu",2013
+"Khan Amir","Independent","351",16,"Hangu",2013
+"Doctor MuhammadAzhar Khan Jadoon","PTI","96185",17,"Abbottabad",2013
+"Sardar MehtabAhmed Khan Abbasi","PML-N","69568",17,"Abbottabad",2013
+"Ayaz KhanJadoon","MDM","8336",17,"Abbottabad",2013
+"Habib ur RehmanAbbasi","JI","4401",17,"Abbottabad",2013
+"Tariq Sultan","JUI-F","3490",17,"Abbottabad",2013
+"Fida Hussain","TSH","2071",17,"Abbottabad",2013
+"Sardar MuhammadGulzar Abbasi","PPP-P","1106",17,"Abbottabad",2013
+"Raja SafdarZaman Hazarvi","PML-S","890",17,"Abbottabad",2013
+"Sarfraz Khan","MQM","536",17,"Abbottabad",2013
+"Raja Izat AliKiyani","TTP","340",17,"Abbottabad",2013
+"Zahoor AhmedChaudry","Independent","281",17,"Abbottabad",2013
+"MurtazaJaved Abbasi","PML-N","69532",18,"Abbottabad",2013
+"Sardar MuhammadYaqoob","PTI","41061",18,"Abbottabad",2013
+"Sardar HaiderZaman","TSH","36286",18,"Abbottabad",2013
+"Sikandar Azam","Independent","11792",18,"Abbottabad",2013
+"Syed FaisalHussain Shah Gilani","MDM","9276",18,"Abbottabad",2013
+"Waheed AkhtarTanoli","JI","6765",18,"Abbottabad",2013
+"Malik Rabia GulAdvicate","Independent","2952",18,"Abbottabad",2013
+"Sardar IbrarAhmad Khan","JUI-F","1382",18,"Abbottabad",2013
+"Muhammad Rashid","AML","1029",18,"Abbottabad",2013
+"Shahid Akram","MQM","253",18,"Abbottabad",2013
+"Asad Javed Khan","HAI","214",18,"Abbottabad",2013
+"SardarMuhammad Yousaf","PML-N","105432",20,"Mansehra",2013
+"Muhammad AzamKhan Swati","PTI","73860",20,"Mansehra",2013
+"Syed Qasim Shah","JUI-F","28616",20,"Mansehra",2013
+"Muhammad YounasKhattak","Ji","3259",20,"Mansehra",2013
+"Sardar MuhammadFayaz","Independent","1971",20,"Mansehra",2013
+"Samar Ul Islam","Independent","1860",20,"Mansehra",2013
+"Muhammad Irfan","Independent","641",20,"Mansehra",2013
+"Fakhar-e-Alamalis Hazrat","TSH","630",20,"Mansehra",2013
+"Wali Ur Rehman(Chichi)","Independent","613",20,"Mansehra",2013
+"Naveed AkhtarKhan","PML-H","471",20,"Mansehra",2013
+"Ijaz HussainShazal","Independent","414",20,"Mansehra",2013
+"Sheikh KamranIqbal","PPP-SB","285",20,"Mansehra",2013
+"Ghulam Nabi","MQM","274",20,"Mansehra",2013
+"Caption ( R )Muhammad Safdar","PML-N","90408",21,"Mansehra",2013
+"Liaq MuhammadKhan","JUI-F","42980",21,"Mansehra",2013
+"NawabzadaSalahuddin Saeed","PTI","25491",21,"Mansehra",2013
+"Maulana RabNawaz Tahir","MDM","4822",21,"Mansehra",2013
+"Moulana AbdulMalik","JI","3184",21,"Mansehra",2013
+"Shoukat AliKhan","ANP","2152",21,"Mansehra",2013
+"Doctor MuhammadAzam","Independent","1040",21,"Mansehra",2013
+"Lady DoctorShaheen Zameer","Independent","814",21,"Mansehra",2013
+"Muhammad Yaqoob","MQM","510",21,"Mansehra",2013
+"QariMohammad Yousif","JUI-F","18075",22,"Battagram",2013
+"Muhammad NawazKhan","Independent","12879",22,"Battagram",2013
+"Alamzeb Khan","PML-N","11842",22,"Battagram",2013
+"Attaullah KhanTrand","Independent","10385",22,"Battagram",2013
+"Sardar MalikJan","Independent","9105",22,"Battagram",2013
+"Niaz MohammadKhan","PTI","2355",22,"Battagram",2013
+"Sabir HussainShah","Independent","1867",22,"Battagram",2013
+"Baber Khan","Independent","964",22,"Battagram",2013
+"Nisar Ahmad","JI","644",22,"Battagram",2013
+"Fida Muhammad","QWP","423",22,"Battagram",2013
+"Muhammad SaleemMalik","Independent","421",22,"Battagram",2013
+"Qari FaqirMohammad Hazarvi","MDM","344",22,"Battagram",2013
+"Musbah AllahBaber","Independent","245",22,"Battagram",2013
+"Nosherwan Khan","Independent","185",22,"Battagram",2013
+"Akhtar JavidKhan","PPP-P","105",22,"Battagram",2013
+"Naeemullah KhanTrand","Independent","53",22,"Battagram",2013
+"Mulana AbdulBaqi Torkhel","MQM","27",22,"Battagram",2013
+"Sarzameen","Independent","16766",23,"Kohistan",2013
+"MehboobullahJan Baqi","JUI-F","11867",23,"Kohistan",2013
+"Malak SyedAhmad","PML-N","11601",23,"Kohistan",2013
+"Alhaaj MalakAurangzeb Khan","PMl-Q","4997",23,"Kohistan",2013
+"Malak Abad Shah","Independent","3882",23,"Kohistan",2013
+"Abdul Ghafoor","MDM","530",23,"Kohistan",2013
+"Dilawar Khan","Independent","254",23,"Kohistan",2013
+"Ameez Khan","Independent","202",23,"Kohistan",2013
+"Mulana Fazalur Rahman","JUI-F","91834",24,"D.I.Khan",2013
+"Waqar AhmadKhan","PPP-P","67581",24,"D.I.Khan",2013
+"Mustafa Kundi","PTI","21293",24,"D.I.Khan",2013
+"Alhaj SardarUmar Farooq Khan Miankhel","Independent","12936",24,"D.I.Khan",2013
+"Rehan MalikAdvocate","PML-N","8455",24,"D.I.Khan",2013
+"Alhaj KhizerHayat Diyal","Independent","5213",24,"D.I.Khan",2013
+"Waseem RehanAdvocate","Independent","2132",24,"D.I.Khan",2013
+"Ubaid Ur Rehman","Independent","1379",24,"D.I.Khan",2013
+"Moin Ud Din","TTP","1117",24,"D.I.Khan",2013
+"Alhaj MalikGhulam Ali Esar","Independent","1052",24,"D.I.Khan",2013
+"Abdul Aziz","PBP","904",24,"D.I.Khan",2013
+"Faqir JamshedAhmad","PSP","867",24,"D.I.Khan",2013
+"Khalifa AbdulQayyum","MDM","746",24,"D.I.Khan",2013
+"SyedZamir-ul-Hasnain Shah","Independent","697",24,"D.I.Khan",2013
+"Junaid TariqQureshi Advocate","MQM","695",24,"D.I.Khan",2013
+"Mado Jan","Independent","665",24,"D.I.Khan",2013
+"Malik NisarAhmad Thind","APML","558",24,"D.I.Khan",2013
+"Malik ArshadDiyal","Independent","477",24,"D.I.Khan",2013
+"ZahidMuhibullah Khan Advocate","JI","389",24,"D.I.Khan",2013
+"Muhammad JibranShah","Independent","270",24,"D.I.Khan",2013
+"Faisal KarimKundi","Independent","228",24,"D.I.Khan",2013
+"Akram RastiGanda Pur","Independent","163",24,"D.I.Khan",2013
+"Saif ur Rahman","Independent","145",24,"D.I.Khan",2013
+"Shahid Atta","Independent","143",24,"D.I.Khan",2013
+"Muhammad HaroonAwan Advocate","Independent","126",24,"D.I.Khan",2013
+"Javed HussanLaghari","Independent","116",24,"D.I.Khan",2013
+"Musarat Shaheen","Independent","99",24,"D.I.Khan",2013
+"Muhammad FayyazQadri","PML-J","94",24,"D.I.Khan",2013
+"Muhammad Akmal","Independent","93",24,"D.I.Khan",2013
+"Ahmad KarimKundi","Independent","91",24,"D.I.Khan",2013
+"Pir TufailAhmad Jan Zakori","Independent","91",24,"D.I.Khan",2013
+"Engineer DawarKhan Kundi","Independent","77",24,"D.I.Khan",2013
+"Engineer SherZaman","Independent","67",24,"D.I.Khan",2013
+"Molana FazalRehman","JUI-F","76837",25,"D.I.Khan / Tank",2013
+"Engineer DawarKhan Kundi","PTI","47175",25,"D.I.Khan / Tank",2013
+"Faisal KarimKundi","PPP-P","46086",25,"D.I.Khan / Tank",2013
+"Faqir JamshedAhmad","PSP","2948",25,"D.I.Khan / Tank",2013
+"Muhammad YousafShah","PML-N","2867",25,"D.I.Khan / Tank",2013
+"Zafar BaigBitani","Independent","2283",25,"D.I.Khan / Tank",2013
+"Mustafa Kundi","Independent","2103",25,"D.I.Khan / Tank",2013
+"Alhaj SardarUmar Farooq Khan","Independent","2002",25,"D.I.Khan / Tank",2013
+"Molana MuhammadZubair Rohani Bazi","JUI-N","1044",25,"D.I.Khan / Tank",2013
+"Muhammad NaseerKhan","Independent","915",25,"D.I.Khan / Tank",2013
+"Ghulam Habib","PBP","582",25,"D.I.Khan / Tank",2013
+"Muhammad Ajmal","Independent","325",25,"D.I.Khan / Tank",2013
+"Pir MuhammadFarooq","Independent","301",25,"D.I.Khan / Tank",2013
+"Ahmad KarimKundi","Independent","152",25,"D.I.Khan / Tank",2013
+"Muhammad YounisKhan Gandapur","Independent","141",25,"D.I.Khan / Tank",2013
+"Muhammad GhalibKamal Advocate","Independent","128",25,"D.I.Khan / Tank",2013
+"Ahmad AbdullahZafar","Independent","119",25,"D.I.Khan / Tank",2013
+"Khan Gul","Independent","116",25,"D.I.Khan / Tank",2013
+"Muhammad AslamKhan","PPP-SB","71",25,"D.I.Khan / Tank",2013
+"Akram KhanDurrani","JUI-F","77015",26,"Bannu",2013
+"Maulana NasimAli Shah","Independent","43553",26,"Bannu",2013
+"Matiullah Khan","PTI","25340",26,"Bannu",2013
+"ProfessorMuhammad Ibrahim Khan","JI","12524",26,"Bannu",2013
+"Alamgir Khan","Independent","4864",26,"Bannu",2013
+"Malik AkhtarAli Khan","PML-N","3291",26,"Bannu",2013
+"Anwar SaifullahKhan","PPP-P","2320",26,"Bannu",2013
+"Doctor RahamBaz Khan","Independent","806",26,"Bannu",2013
+"Abdul SamadKhan","Independent","432",26,"Bannu",2013
+"Nek Daraz Khan","TTP","404",26,"Bannu",2013
+"MalikAsmatullah Shah","PKMAP","348",26,"Bannu",2013
+"Zafar JehangirKhan","Independent","323",26,"Bannu",2013
+"Imran Khan","MQM","259",26,"Bannu",2013
+"Muhammad HayatKhan","Independent","251",26,"Bannu",2013
+"Faridullah Khan","MDM","112",26,"Bannu",2013
+"Muqarab KhanWazir","Independent","58",26,"Bannu",2013
+"Hizbullah","APML","52",26,"Bannu",2013
+"Mulana Fazalur Rahman","JUI-F","84531",27,"Lakki Marwat",2013
+"SaleemSaifullah Khan","PML-N","56075",27,"Lakki Marwat",2013
+"Colonel (R)Amirullah Marwat","PTI","18168",27,"Lakki Marwat",2013
+"Muhammad Haleem","Independent","4045",27,"Lakki Marwat",2013
+"Ali Sarwar","ANP","2909",27,"Lakki Marwat",2013
+"Ikramullah","TTP","986",27,"Lakki Marwat",2013
+"Faridullah KhanAdvocate","Independent","675",27,"Lakki Marwat",2013
+"QudratullahKhan","Independent","448",27,"Lakki Marwat",2013
+"Haji MuhammadAkram Khan Aarain","Independent","264",27,"Lakki Marwat",2013
+"Moulana AsgharAli Marwat","Independent","219",27,"Lakki Marwat",2013
+"Doctor AbdullahKhan Marwat","PKMAP","121",27,"Lakki Marwat",2013
+"Qabool Bibi","Independent","120",27,"Lakki Marwat",2013
+"Amir Nawaz Khan","Independent","118",27,"Lakki Marwat",2013
+"Muhammad JavedAnwar Khan Ghazni Khel","PML-Q","114",27,"Lakki Marwat",2013
+"Zahid ur Rahman","Independent","75",27,"Lakki Marwat",2013
+"Nisar AhmadMedad Khel","Independent","75",27,"Lakki Marwat",2013
+"Khan BahadarMarwat","Independent","52",27,"Lakki Marwat",2013
+"Sakhi Marjan","JUP-Niazi","45",27,"Lakki Marwat",2013
+"Ishfaq AhmadKhan","Independent","38",27,"Lakki Marwat",2013
+"Moulana AbdurRahmeem","Independent","37",27,"Lakki Marwat",2013
+"Shair AkbarKhan","JI","28264",28,"Buner",2013
+"Mian Moin Uddin","PTI","23234",28,"Buner",2013
+"Mulana HaleemUr Rahman","JUI-F","21049",28,"Buner",2013
+"Abdul Rauf","ANP","20623",28,"Buner",2013
+"Sar Zamin Khan","PML-N","11748",28,"Buner",2013
+"Fanoos Gujar","AWP","10021",28,"Buner",2013
+"Bakhtiar Ali","QWP","1927",28,"Buner",2013
+"Dawa Khan","PML-Q","1343",28,"Buner",2013
+"Majid Khan","TTP","1146",28,"Buner",2013
+"Sarmir Khan","APML","610",28,"Buner",2013
+"Doctor SultanZeb Khan","Independent","528",28,"Buner",2013
+"Rasheed ImranKhan","JUP-N","306",28,"Buner",2013
+"Bakht Zar","MDM","266",28,"Buner",2013
+"Murad Saeed","PTI","88291",29,"Swat",2013
+"Syed MuhammadAli Shah Bacha Lala","PML-N","24083",29,"Swat",2013
+"Maulana Nizamud Din","JUI-F","20911",29,"Swat",2013
+"Muzaffar-ul-Mulk","ANP","14601",29,"Swat",2013
+"Akhtar Ali Khan","JI","11082",29,"Swat",2013
+"Dost MuhammadKhan","PPP-P","7871",29,"Swat",2013
+"Doctor Siraj udDin","QWP","2790",29,"Swat",2013
+"Saddiq Ali Khan","Independent","2145",29,"Swat",2013
+"Khurshid Ali","PKMAP","1736",29,"Swat",2013
+"Ubaid ur Rehman","JUI-N","1504",29,"Swat",2013
+"Moulana PirSyed","JUP-N","1064",29,"Swat",2013
+"Sajad Hussain","PML-Q","830",29,"Swat",2013
+"Mohsin BadshahAdvocate","MQM","740",29,"Swat",2013
+"Ali Khan","Independent","414",29,"Swat",2013
+"Salim Rehman","PTI","49887",30,"Swat",2013
+"Amir Muqam","PML-N","32853",30,"Swat",2013
+"MuhammadHafeezur Rahman","JUI-F","16639",30,"Swat",2013
+"Syed Allauddin","PPP-P","16352",30,"Swat",2013
+"Khurshid","ANP","15497",30,"Swat",2013
+"Fazale Subhan","JI","11220",30,"Swat",2013
+"MuhammadMukhtiar","PKMAP","2727",30,"Swat",2013
+"Nairoz Mian","Independent","2575",30,"Swat",2013
+"Muhammad BashirKhan","Independent","2519",30,"Swat",2013
+"Amjad Ali Khan","QWP","1588",30,"Swat",2013
+"Kamal Shah","AWP","1162",30,"Swat",2013
+"Muhammad Nazeer","JUI-N","740",30,"Swat",2013
+"Talhayat Khan","Independent","698",30,"Swat",2013
+"Muhammad MusaKhan","Independent","686",30,"Swat",2013
+"Maulana RasheedAhmad","MDM","618",30,"Swat",2013
+"Maki Muhammad","TTP","521",30,"Swat",2013
+"Mumtaz Hussainurf Bhutto","Independent","338",30,"Swat",2013
+"Said Ahmad Khan","Independent","333",30,"Swat",2013
+"Mehmood","Independent","304",30,"Swat",2013
+"Badshah Muain","JUP-N","189",30,"Swat",2013
+"Malik Inzar Gul","PML-Q","172",30,"Swat",2013
+"Azam Khan","Independent","170",30,"Swat",2013
+"Muhammad TahirKhan","Independent","143",30,"Swat",2013
+"Sher BahadarAdvocate","Independent","114",30,"Swat",2013
+"Alhaj MoulanaAltafullah","Independent","53",30,"Swat",2013
+"Mateeullah Khan","Independent","--",30,"Swat",2013
+"Ibadullah","PML-N","29728",31,"Shangla",2013
+"Sadid ur Rahman","ANP","20953",31,"Shangla",2013
+"Engineer HamidIqbal Khan","PPP-P","10748",31,"Shangla",2013
+"Rahat Hussain","JUI-F","8243",31,"Shangla",2013
+"Nawaz MehmoodKhan","PTI","6082",31,"Shangla",2013
+"Doctor MuhammadAnwar Shah","JI","4334",31,"Shangla",2013
+"Maulana QariMushtaq Ahmad","Independent","3942",31,"Shangla",2013
+"Fanoos Gojar","AWP","3916",31,"Shangla",2013
+"Safeer Khan","Independent","1590",31,"Shangla",2013
+"Abdur Raj Khan","PML-Q","252",31,"Shangla",2013
+"Ghazanfar AnjumYousafzai Advocate","MQM","134",31,"Shangla",2013
+"Mian NazirRahman","Independent","63",31,"Shangla",2013
+"Iftikhar udDin","APML","29772",32,"Chitral",2013
+"Abdul Latif","PTI","24182",32,"Chitral",2013
+"Abdul AkbarChitrali","JI","20520",32,"Chitral",2013
+"Muhammad HakeemKhan","PPP-P","19877",32,"Chitral",2013
+"Hidayat urRehman","JUI-F","15928",32,"Chitral",2013
+"Syed MuzafarAli Shah Jan","ANP","6728",32,"Chitral",2013
+"Irshad AlamKhan","QWP","3948",32,"Chitral",2013
+"Muhammad Younas","PML-N","2463",32,"Chitral",2013
+"Muhammad Yahya","Independent","941",32,"Chitral",2013
+"Asma Mehmood","Independent","587",32,"Chitral",2013
+"Kamal AbdulJamil","Independent","0",32,"Chitral",2013
+"Sahibzada TariqUllah","JI","41573",33,"Upper Dir Cum Lower Dir",2013
+"Najam ud DinKhan","PPP-P","26487",33,"Upper Dir Cum Lower Dir",2013
+"Malak MuhamadZeb Khan","PML-N","17158",33,"Upper Dir Cum Lower Dir",2013
+"Muhammad Nawaz","PTI","15388",33,"Upper Dir Cum Lower Dir",2013
+"Maulana FazliAzeem","JUI-F","6562",33,"Upper Dir Cum Lower Dir",2013
+"Naveed AnjumKhan","ANP","4237",33,"Upper Dir Cum Lower Dir",2013
+"Umar Zeb Khan","PML-Q","1322",33,"Upper Dir Cum Lower Dir",2013
+"Muhammad AmeerKhan","Independent","442",33,"Upper Dir Cum Lower Dir",2013
+"Muhammad Zeb","APML","441",33,"Upper Dir Cum Lower Dir",2013
+"Farooq Ahmad","QWP","309",33,"Upper Dir Cum Lower Dir",2013
+"Shahib ZadaMuhammad Yaqub","JI","46968",34,"Lower Dir",2013
+"Muhammad BashirKhan","PTI","45503",34,"Lower Dir",2013
+"Fazlullah","JUI-F","22535",34,"Lower Dir",2013
+"Muhammad AzamKhan","ANP","8861",34,"Lower Dir",2013
+"Haji MuhammadUmar","QWP","7230",34,"Lower Dir",2013
+"Malak AzmatKhan","PPP-P","6197",34,"Lower Dir",2013
+"Farid KhanYousafzai","PML-N","5796",34,"Lower Dir",2013
+"Alam Khan","HDP","2207",34,"Lower Dir",2013
+"Mst NasratBegum","Independent","185",34,"Lower Dir",2013
+"Sayed NasarShah","Independent","168",34,"Lower Dir",2013
+"Hayatullah KhanSadat","Independent","164",34,"Lower Dir",2013
+"Shafiur Rahman","APML","156",34,"Lower Dir",2013
+"MalakRahmatullah","Independent","118",34,"Lower Dir",2013
+"Abdul Hanan","MDM","65",34,"Lower Dir",2013
+"Junaid Akbar","PTI","51249",35,"Malakand ",2013
+"Hajiz MuhammadSaeed","JUI-F","22268",35,"Malakand ",2013
+"Lal MuhammadKhan","PPP-P","19116",35,"Malakand ",2013
+"Haji FidaMuhammad","PML-N","18135",35,"Malakand ",2013
+"Bakhtiar Maani","JI","16301",35,"Malakand ",2013
+"Rahmat ShahSael","ANP","8673",35,"Malakand ",2013
+"Muhammad Ibrar","QWP","1145",35,"Malakand ",2013
+"Bacha Hussain","Independent","972",35,"Malakand ",2013
+"Alamgir","Independent","411",35,"Malakand ",2013
+"Ijazur Rahman","Independent","227",35,"Malakand ",2013
+"Alhaaj MuhammadKhan","Independent","193",35,"Malakand ",2013
+"Bilal Rehman","Independent","8867",36,"Tribal Area",2013
+"Muhammad Saeedkhan","JI","5698",36,"Tribal Area",2013
+"Ghulam MuhammadSadiq","JUI-F","4575",36,"Tribal Area",2013
+"Nisar Ahmad","Independent","4512",36,"Tribal Area",2013
+"Khan Dad","Independent","4487",36,"Tribal Area",2013
+"Haji Zar KhanSafi","PML-N","3972",36,"Tribal Area",2013
+"Rahim ShahMohmand","Independent","3381",36,"Tribal Area",2013
+"Waheed Ullah","Independent","2767",36,"Tribal Area",2013
+"Shah Sawar KhanMohmand","Independent","1854",36,"Tribal Area",2013
+"Daud Shah","PTI","1767",36,"Tribal Area",2013
+"Maulana HafizAmeer Ullah Junaidi","Independent","1595",36,"Tribal Area",2013
+"Asghar Khan","Independent","1454",36,"Tribal Area",2013
+"Maulana SamiUllah","Independent","1233",36,"Tribal Area",2013
+"Muhammad DaudKhan","Independent","1190",36,"Tribal Area",2013
+"Gul Nawaz KhanMohmand","Independent","967",36,"Tribal Area",2013
+"Muhammad IqrarKhan","Independent","797",36,"Tribal Area",2013
+"Doctor FarooqAfzal","PPP-P","704",36,"Tribal Area",2013
+"Malik IsrailSafi","Independent","592",36,"Tribal Area",2013
+"Sultan Shah","Independent","364",36,"Tribal Area",2013
+"Qari Main IhsanUllah","Independent","312",36,"Tribal Area",2013
+"Abid Shah","Independent","308",36,"Tribal Area",2013
+"Abdul WaheedKhan","Independent","251",36,"Tribal Area",2013
+"Malik Aman","Independent","215",36,"Tribal Area",2013
+"Malik SadbarKhan Musa Khel","Independent","208",36,"Tribal Area",2013
+"Noor Jamal Shah","MQP","142",36,"Tribal Area",2013
+"Saz Mir Khan","Independent","133",36,"Tribal Area",2013
+"Rooh Ullah","Independent","121",36,"Tribal Area",2013
+"Shahbaz YasirAli","TTP","103",36,"Tribal Area",2013
+"Fazal Hadi","Independent","84",36,"Tribal Area",2013
+"Mian EngineeerTaj Mir Khan","Independent","71",36,"Tribal Area",2013
+"Ali Akbar KhanDawazai","Independent","59",36,"Tribal Area",2013
+"Sawab Khan","Independent","42",36,"Tribal Area",2013
+"Khair Ullah","Independent","31",36,"Tribal Area",2013
+"Walayat Habib","Independent","30",36,"Tribal Area",2013
+"Wazir MuhammadSafi","Independent","26",36,"Tribal Area",2013
+"Mian AbdulQahar","Independent","25",36,"Tribal Area",2013
+"Hameed Hussian","MQM","24",36,"Tribal Area",2013
+"Abdur Rehman","Independent","22",36,"Tribal Area",2013
+"Jan MuhammadKhan","Independent","17",36,"Tribal Area",2013
+"Malik BadriZaman Utman Khel","Independent","17",36,"Tribal Area",2013
+"Sajid Hussain Turi","Independent","30524",37,"Tribal Area",2013
+"Sayed QaisarHussain","Independent","29623",37,"Tribal Area",2013
+"Syed Iqbal Mian","Independent","21036",37,"Tribal Area",2013
+"Haji HashimKhan","Independent","5475",37,"Tribal Area",2013
+"Muhammad AshiqKhan","MDM","5062",37,"Tribal Area",2013
+"Ibrar Hussain","Independent","714",37,"Tribal Area",2013
+"Zahid HussainTuri","Independent","423",37,"Tribal Area",2013
+"Hafeezullah","PTI","294",37,"Tribal Area",2013
+"Doulat Ali","ANP","229",37,"Tribal Area",2013
+"Mumtaz Bhai","MQM","191",37,"Tribal Area",2013
+"Hikmat Khan","JI","182",37,"Tribal Area",2013
+"Hamid HussainTuri","Independent","77",37,"Tribal Area",2013
+"Mulana Ain UDin Shaker","JUI-F","47",37,"Tribal Area",2013
+"Abdul HamidOrakzai","PML-N","26",37,"Tribal Area",2013
+"Syed Ahmad Shah","Independent","10",37,"Tribal Area",2013
+"Saqlain AbbasBangash","APML","10",37,"Tribal Area",2013
+"Inayat Ali","Independent","9",37,"Tribal Area",2013
+"Rajab Ali","Independent","9",37,"Tribal Area",2013
+"Syed Wali SyedMian","Independent","5",37,"Tribal Area",2013
+"Muhammad TufailShaheen","Independent","4",37,"Tribal Area",2013
+"Muhammad JafferShah","Independent","4",37,"Tribal Area",2013
+"Mansab Ali","Independent","3",37,"Tribal Area",2013
+"Zareen KhanMangal","Independent","2",37,"Tribal Area",2013
+"Malik FakharZaman Khan","Independent","2",37,"Tribal Area",2013
+"Shujjatullah","Independent","1",37,"Tribal Area",2013
+"Malik NoorAkbar","Independent","1",37,"Tribal Area",2013
+"Asghar Hussain","Independent","1",37,"Tribal Area",2013
+"Zia Ur RehmanZia","Independent","1",37,"Tribal Area",2013
+"Malik HabibMalak Orakzai","MQP","1",37,"Tribal Area",2013
+"Malik Mula JanBangash","Independent","0",37,"Tribal Area",2013
+"Malik Khial Jan","Independent","0",37,"Tribal Area",2013
+"Akhonzada Muhammad Akram Khan","Independent","",38,"Tribal Area",2013
+"Engineer Rasheed Ahmad Khan","Independent","",38,"Tribal Area",2013
+"Haji Salim Khan Orakzai","Independent","",38,"Tribal Area",2013
+"Haji Munir Ullah Khan","Independent","",38,"Tribal Area",2013
+"Habib Malik Orakzai","MQP","",38,"Tribal Area",2013
+"Hazrat Nabi","PTI","",38,"Tribal Area",2013
+"Daulat Khan","Independent","",38,"Tribal Area",2013
+"Doctor Abdul Qadir","Independent","",38,"Tribal Area",2013
+"Zarin Khan Mangal","Independent","",38,"Tribal Area",2013
+"Shams ul Haq","Independent","",38,"Tribal Area",2013
+"Abdul Wahid","PML-Z","",38,"Tribal Area",2013
+"Abdul Wali Khan","Independent","",38,"Tribal Area",2013
+"Gul Manan","Independent","",38,"Tribal Area",2013
+"Lal Muhammad Orakzai","Independent","",38,"Tribal Area",2013
+"Muhammad Jan","Independent","",38,"Tribal Area",2013
+"Mukhtar Ahmad","Independent","",38,"Tribal Area",2013
+"Malak Zulfiqar Ali","PPP-P","",38,"Tribal Area",2013
+"Malak Fakhar Zaman Khan","Independent","",38,"Tribal Area",2013
+"Malak Noor Akbar","Independent","",38,"Tribal Area",2013
+"Munir Khan Orakzai","JUI-F","",38,"Tribal Area",2013
+"Nadir Khan","Independent","",38,"Tribal Area",2013
+"Noor Muhammad","Independent","",38,"Tribal Area",2013
+"Naveed Ahmad Khan","PML-N","",38,"Tribal Area",2013
+"Syed Ghazi Gulab Jamal","Independent","8469",39,"Tribal Area",2013
+"JawadhHussain","PPP-P","7726",39,"Tribal Area",2013
+"Syed NoorhAkbar","Independent","5190",39,"Tribal Area",2013
+"EngineerhTahir Iqbal Orakzai","JUI-F","4182",39,"Tribal Area",2013
+"Malik AtiqhUr Rehman Orakzai","PTI","3805",39,"Tribal Area",2013
+"Ajmal Khan","Independent","3632",39,"Tribal Area",2013
+"GulhMuhammad","Independent","3385",39,"Tribal Area",2013
+"SyedhBasharat Hussain","ANP","2723",39,"Tribal Area",2013
+"Habib Noor","MQP","2180",39,"Tribal Area",2013
+"RajhMuhammad","JI","1017",39,"Tribal Area",2013
+"Speen Gul","PML-N","859",39,"Tribal Area",2013
+"Syed FazalhAbbas","Independent","808",39,"Tribal Area",2013
+"Suhrab Ali","PML-Q","458",39,"Tribal Area",2013
+"IqbalhHussain","Independent","235",39,"Tribal Area",2013
+"Shamim Khan","TTP","94",39,"Tribal Area",2013
+"MalikhKhalid Naeem","Independent","55",39,"Tribal Area",2013
+"MuhammadhJanan","Independent","40",39,"Tribal Area",2013
+"MuhammadhNazir","Independent","38",39,"Tribal Area",2013
+"ShafiqhHussain","Independent","35",39,"Tribal Area",2013
+"Syed MuqeelhHussain","Independent","26",39,"Tribal Area",2013
+"Syed KhizarhHayat","Independent","22",39,"Tribal Area",2013
+"Dr GulhKarim Khan","Independent","22",39,"Tribal Area",2013
+"MuhammadhAyaz","Independent","18",39,"Tribal Area",2013
+"Kisan Ali","Independent","15",39,"Tribal Area",2013
+"ShoibhHassan","Independent","14",39,"Tribal Area",2013
+"Syed HaziqhAli Shah","Independent","12",39,"Tribal Area",2013
+"ShahhMuhammad Khan","Independent","12",39,"Tribal Area",2013
+"Syed KabirhHussain","Independent","10",39,"Tribal Area",2013
+"HabibhHassan","Independent","9",39,"Tribal Area",2013
+"Hanif Khan","Independent","8",39,"Tribal Area",2013
+"Abbas Raza","Independent","8",39,"Tribal Area",2013
+"Luqman Shah","Independent","8",39,"Tribal Area",2013
+"MudassarhHussain","Independent","8",39,"Tribal Area",2013
+"KhademhHussain","Independent","7",39,"Tribal Area",2013
+"Ali DadhKhan","Independent","3",39,"Tribal Area",2013
+"Yar Min Gul","Independent","0",39,"Tribal Area",2013
+"Muhammad Nazir Khan","Independent","18055",40,"Tribal Area",2013
+"AurangzebhKhan","Independent","14794",40,"Tribal Area",2013
+"PirhMuhammad Aqal Shah","JUI-F","12233",40,"Tribal Area",2013
+"Abdul Qayum","PTI","8239",40,"Tribal Area",2013
+"HumayunhKhan","Independent","4876",40,"Tribal Area",2013
+"Mulana SyedhNaik Zaman","Independent","4218",40,"Tribal Area",2013
+"MuhammadhKamran Khan","Independent","3259",40,"Tribal Area",2013
+"Naik AmalhKhan","PML-N","2469",40,"Tribal Area",2013
+"Malik RiazhAhmed","Independent","2441",40,"Tribal Area",2013
+"Aqal Zaman","Independent","1685",40,"Tribal Area",2013
+"HaroonhIqbal","Independent","1272",40,"Tribal Area",2013
+"MalikhGhulam Khan","Independent","1099",40,"Tribal Area",2013
+"PirhAurangzeb Khan","Independent","939",40,"Tribal Area",2013
+"MuhammadhAmin","Independent","396",40,"Tribal Area",2013
+"SheryarhKhan","Independent","367",40,"Tribal Area",2013
+"MuhammadhMashal Khan","JI","284",40,"Tribal Area",2013
+"Akbar AlihKhan","Independent","216",40,"Tribal Area",2013
+"MuhammadhNoor Khan","Independent","95",40,"Tribal Area",2013
+"Gul Ramzan","Independent","51",40,"Tribal Area",2013
+"Darya Jan","Independent","34",40,"Tribal Area",2013
+"Ali Mamoor","Independent","28",40,"Tribal Area",2013
+"Sidiq Ullah","Independent","26",40,"Tribal Area",2013
+"MuhammadhIshaq","Independent","22",40,"Tribal Area",2013
+"FazalhSubhan","Independent","17",40,"Tribal Area",2013
+"Akbar Khan","QWP","5",40,"Tribal Area",2013
+"Shaihd Khan","Independent","5",40,"Tribal Area",2013
+"Ihsan Ullah","Independent","4",40,"Tribal Area",2013
+"MolvihRuknudin","Independent","3",40,"Tribal Area",2013
+"Haji LaiqhZaman","Independent","3",40,"Tribal Area",2013
+"Molvi AbdulhHai","MDM","2",40,"Tribal Area",2013
+"Molvi AbdulhQadir","Independent","1",40,"Tribal Area",2013
+"Khan Daraz","PPP-P","1",40,"Tribal Area",2013
+"Nawar Jan","Independent","1",40,"Tribal Area",2013
+"Nisar AlihKhan","Independent","1",40,"Tribal Area",2013
+"Ghalib Khan","PML-N","8022",41,"Tribal Area",2013
+"MuhammadhAli","Independent","7641",41,"Tribal Area",2013
+"NaseerullahhKhan","Independent","6948",41,"Tribal Area",2013
+"Jumma Khan","Independent","6848",41,"Tribal Area",2013
+"MoulanahAbdul Malik","JUI-F","3045",41,"Tribal Area",2013
+"AbdulhKhaliq","Independent","1556",41,"Tribal Area",2013
+"Abdullah","Independent","930",41,"Tribal Area",2013
+"Ajab Gul","PTI","667",41,"Tribal Area",2013
+"Aurangzeb","Independent","506",41,"Tribal Area",2013
+"Zar WalihKhan","MDM","347",41,"Tribal Area",2013
+"Imran Ullah","Independent","210",41,"Tribal Area",2013
+"MuhammadhAyaz Khan","ANP","198",41,"Tribal Area",2013
+"Javed Noor","Independent","125",41,"Tribal Area",2013
+"AbdurhRehman","Independent","89",41,"Tribal Area",2013
+"Amanullah","PPP-P","62",41,"Tribal Area",2013
+"MuhammadhGulab","Independent","35",41,"Tribal Area",2013
+"Javed Iqbal","Independent","33",41,"Tribal Area",2013
+"MuhammadhJamil","Independent","28",41,"Tribal Area",2013
+"MuhammadhIshaq","Independent","27",41,"Tribal Area",2013
+"Bad ShahihKhan","Independent","27",41,"Tribal Area",2013
+"MuhammadhNoor Azad","Independent","14",41,"Tribal Area",2013
+"Ehsanullah","Independent","13",41,"Tribal Area",2013
+"Ibrahim","Independent","12",41,"Tribal Area",2013
+"GhulamhHaider","Independent","11",41,"Tribal Area",2013
+"Shahad Khan","Independent","10",41,"Tribal Area",2013
+"FaizullahhAmin","Independent","7",41,"Tribal Area",2013
+"Allah Noor","Independent","7",41,"Tribal Area",2013
+"MuhammadhIsmail","Independent","6",41,"Tribal Area",2013
+"Johir Khan","Independent","6",41,"Tribal Area",2013
+"Hazrat Noor","Independent","5",41,"Tribal Area",2013
+"NekhMuhammad","Independent","5",41,"Tribal Area",2013
+"Gul Din","Independent","4",41,"Tribal Area",2013
+"Ramzan Khan","Independent","4",41,"Tribal Area",2013
+"Bakhta JanhWazir","Independent","4",41,"Tribal Area",2013
+"DilhMuhammad","Independent","3",41,"Tribal Area",2013
+"SanaullahhKhan","Independent","3",41,"Tribal Area",2013
+"Rehanullah","Independent","2",41,"Tribal Area",2013
+"Raza Khan","Independent","1",41,"Tribal Area",2013
+"Muhammad Jamal ud Din","JUI-F","3468",42,"Tribal Area",2013
+"Qayyum SherhMahsud","Independent","3066",42,"Tribal Area",2013
+"DosthMuhammad Khan","PTI","2454",42,"Tribal Area",2013
+"Abdur RahimhKhan","Independent","2128",42,"Tribal Area",2013
+"DilawarhKhan","PML-N","429",42,"Tribal Area",2013
+"Sami UllahhJan","JI","271",42,"Tribal Area",2013
+"AbdulhMajeed Khan","Independent","222",42,"Tribal Area",2013
+"Javed Iqbal","Independent","203",42,"Tribal Area",2013
+"Sher Pao","Independent","115",42,"Tribal Area",2013
+"MuhammadhTahir","Independent","106",42,"Tribal Area",2013
+"SherhMuhammad","Independent","104",42,"Tribal Area",2013
+"Nasibullah","Independent","26",42,"Tribal Area",2013
+"AbdulhQadoos Khan","Independent","18",42,"Tribal Area",2013
+"FaizullahhAmin","Independent","12",42,"Tribal Area",2013
+"Shah FahadhAnsari","PPP-P","11",42,"Tribal Area",2013
+"Salim Khan","Independent","8",42,"Tribal Area",2013
+"Ihsan UllahhKhan Mahsood","TI","8",42,"Tribal Area",2013
+"Bismillah Khan","Independent","13929",43,"Tribal Area",2013
+"Sahib ZadahHaroon Ur Raheed","JI","10023",43,"Tribal Area",2013
+"Zaffar Khan","PTI","6948",43,"Tribal Area",2013
+"MuhammadhSaddiq","JUI-F","3613",43,"Tribal Area",2013
+"FazlihRehman","Independent","2191",43,"Tribal Area",2013
+"NawshadhKhan","Independent","1863",43,"Tribal Area",2013
+"Abdullah","PML-N","1690",43,"Tribal Area",2013
+"Saeed UrhRehman","PPP-P","697",43,"Tribal Area",2013
+"Abdullah","Independent","634",43,"Tribal Area",2013
+"MuhammadhIqbal","Independent","364",43,"Tribal Area",2013
+"TajhMuhammad","TIU","256",43,"Tribal Area",2013
+"Nawab ZadahShahid","Independent","230",43,"Tribal Area",2013
+"Fateh UrhRehman","Independent","227",43,"Tribal Area",2013
+"Habib RasulhSafi","Independent","116",43,"Tribal Area",2013
+"MuhammadhRahim","Independent","62",43,"Tribal Area",2013
+"Khalil UrhRehman","Independent","58",43,"Tribal Area",2013
+"Shahab Ud Din Khan","PML-N","15114",44,"Tribal Area",2013
+"Sardar Khan","JI","11972",44,"Tribal Area",2013
+"Gul DadhKhan","PTI","7069",44,"Tribal Area",2013
+"HajihBahadar Khan","Independent","6549",44,"Tribal Area",2013
+"MaulanahAbdur Rashid","JUI-F","6249",44,"Tribal Area",2013
+"Sayed AkhunhZada Chattan","PPP-P","4127",44,"Tribal Area",2013
+"Juma Said","Independent","2182",44,"Tribal Area",2013
+"Gul Afzal","ANP","1378",44,"Tribal Area",2013
+"SaidhBadshah","PML-Q","756",44,"Tribal Area",2013
+"BahadarhShah","Independent","668",44,"Tribal Area",2013
+"MuambarhKhan","Independent","490",44,"Tribal Area",2013
+"Nasar Khan","Independent","433",44,"Tribal Area",2013
+"AmirhMuhammad","TTP","361",44,"Tribal Area",2013
+"MuhammadhAsghar","PKMAP","282",44,"Tribal Area",2013
+"MaulanahGran Badshah","Independent","177",44,"Tribal Area",2013
+"BismillahhJan","Independent","170",44,"Tribal Area",2013
+"Gul Hussain","Independent","158",44,"Tribal Area",2013
+"Sahib Zada","Independent","145",44,"Tribal Area",2013
+"Badam Zari","Independent","142",44,"Tribal Area",2013
+"MuhammadhIhasnullah","Independent","129",44,"Tribal Area",2013
+"Sher Wali","QWP","108",44,"Tribal Area",2013
+"MuhammadhHaseeb Khan","Independent","91",44,"Tribal Area",2013
+"ZerhMuhammad","Independent","85",44,"Tribal Area",2013
+"MuhammadhShahid Khan","Independent","79",44,"Tribal Area",2013
+"Malik UmarhWahid","Independent","29",44,"Tribal Area",2013
+"FazalhHameed","Independent","16",44,"Tribal Area",2013
+"Alhaj Shah Jee Gul Afridi","Independent","29697",45,"Tribal Area",2013
+"Pir Noor UlhHaq Qadri","Independent","20181",45,"Tribal Area",2013
+"Khan ShaidhAfridi","PTI","9198",45,"Tribal Area",2013
+"Zar NoorhAfridi","JI","4124",45,"Tribal Area",2013
+"Malik DaryahKhan","ANP","2113",45,"Tribal Area",2013
+"Israrullah","Independent","1340",45,"Tribal Area",2013
+"Saida Jan","JUI-F","1180",45,"Tribal Area",2013
+"Zahid KhanhAfridi","PML-N","530",45,"Tribal Area",2013
+"Batoor Khan","Independent","470",45,"Tribal Area",2013
+"Hazrat Wali","PPP-P","262",45,"Tribal Area",2013
+"Abdul Wahid","Independent","129",45,"Tribal Area",2013
+"Said Nawab","Independent","83",45,"Tribal Area",2013
+"MuhammadhHukam Jan","Independent","61",45,"Tribal Area",2013
+"MuhammadhSaddique","Independent","54",45,"Tribal Area",2013
+"IkramullahhJan","Independent","42",45,"Tribal Area",2013
+"HamidullahhJan Afridi","Independent","31",45,"Tribal Area",2013
+"AbidullahhAfridi","Independent","28",45,"Tribal Area",2013
+"Taj MahalhAfridi","Independent","18",45,"Tribal Area",2013
+"Nasir Khan","Independent","4135",46,"Tribal Area",2013
+"MuhammadhIqbal Khan","PTI","3579",46,"Tribal Area",2013
+"HamidullahhJan Afridi","Independent","3342",46,"Tribal Area",2013
+"MuhammadhShah","Independent","2432",46,"Tribal Area",2013
+"Shah FaisalhAfridi","JI","1027",46,"Tribal Area",2013
+"Malik WarishKhan","Independent","707",46,"Tribal Area",2013
+"Shamsuddin","JUI-F","483",46,"Tribal Area",2013
+"SohailhAhmad","PML-N","345",46,"Tribal Area",2013
+"Munsif AlihKhan","Independent","279",46,"Tribal Area",2013
+"Imran Khan","Independent","138",46,"Tribal Area",2013
+"BismillahhJan","Independent","70",46,"Tribal Area",2013
+"Kaptan","Independent","64",46,"Tribal Area",2013
+"Murad KhanhAfridi","Independent","51",46,"Tribal Area",2013
+"Ajab Khan","QWP","38",46,"Tribal Area",2013
+"SardarhAsghar","Independent","36",46,"Tribal Area",2013
+"Syed KaramhShah Afridi","Independent","33",46,"Tribal Area",2013
+"MuhammadhAyub Khan","Independent","28",46,"Tribal Area",2013
+"Momin Khan","Independent","21",46,"Tribal Area",2013
+"Adnan Nasir","Independent","14",46,"Tribal Area",2013
+"Haji Khan","Independent","12",46,"Tribal Area",2013
+"Qadir Khan","Independent","9",46,"Tribal Area",2013
+"Awal GulhAfridi","Independent","6",46,"Tribal Area",2013
+"Said Rasan","Independent","4",46,"Tribal Area",2013
+"Jan AkbarhAfridi","Independent","4",46,"Tribal Area",2013
+"Qaisar Jamal","PTI","11328",47,"Tribal Area 2013 ",2013
+"Mufti AbdulhShakoor","JUI-F","10240",47,"Tribal Area 2013 ",2013
+"Sher AzamhKhan","Independent","5028",47,"Tribal Area 2013 ",2013
+"Baz GulhAfridi","PML-N","4310",47,"Tribal Area 2013 ",2013
+"AbdullahhNangial Bhattani","Independent","4131",47,"Tribal Area 2013 ",2013
+"Abid UrhRehman","Independent","3136",47,"Tribal Area 2013 ",2013
+"Shahi Khan","ANP","2805",47,"Tribal Area 2013 ",2013
+"Haji Rodyar","Independent","1840",47,"Tribal Area 2013 ",2013
+"MuhammadhIftikhar Zafar","Independent","1435",47,"Tribal Area 2013 ",2013
+"Inam UrhRehman","Independent","805",47,"Tribal Area 2013 ",2013
+"MuhammadhRasool","JI","727",47,"Tribal Area 2013 ",2013
+"Kamran KhanhBhattani","Independent","662",47,"Tribal Area 2013 ",2013
+"Malik NoorhZaman","Independent","360",47,"Tribal Area 2013 ",2013
+"KhwajahMuhammad","MDM","350",47,"Tribal Area 2013 ",2013
+"MuhabathKhan Sherani","Independent","277",47,"Tribal Area 2013 ",2013
+"Malik DaudhKhan Afridi","Independent","148",47,"Tribal Area 2013 ",2013
+"Emal Khan","Independent","94",47,"Tribal Area 2013 ",2013
+"MuhammadhAslam","Independent","94",47,"Tribal Area 2013 ",2013
+"Saif UrhRehman","Independent","59",47,"Tribal Area 2013 ",2013
+"Zait Ullah","Independent","33",47,"Tribal Area 2013 ",2013
+"Shahab UdhDin","Independent","30",47,"Tribal Area 2013 ",2013
+"Zafar BaighBhattani","Independent","28",47,"Tribal Area 2013 ",2013
+"Nabi Gull","Independent","27",47,"Tribal Area 2013 ",2013
+"GhulamhIshaq","Independent","24",47,"Tribal Area 2013 ",2013
+"AshfaqhAhmad","Independent","24",47,"Tribal Area 2013 ",2013
+"Laiq Zada","Independent","23",47,"Tribal Area 2013 ",2013
+"Juma Khan","Independent","21",47,"Tribal Area 2013 ",2013
+"Ashfaq KhanhBhattani","Independent","18",47,"Tribal Area 2013 ",2013
+"Naqib Khan","Independent","16",47,"Tribal Area 2013 ",2013
+"Kamil Khan","Independent","13",47,"Tribal Area 2013 ",2013
+"Malik RozahDin","Independent","13",47,"Tribal Area 2013 ",2013
+"Bakhta Khan","Independent","10",47,"Tribal Area 2013 ",2013
+"Rifat Ullah","Independent","10",47,"Tribal Area 2013 ",2013
+"Faqeer ZadahMuhammad Nadar Shah","Independent","7",47,"Tribal Area 2013 ",2013
+"MuhammadhSadaq Khan","Independent","7",47,"Tribal Area 2013 ",2013
+"Naseer Khan","Independent","6",47,"Tribal Area 2013 ",2013
+"Doctor TariqFazal Chudhary","PML-N","95701",49,"Islamabad",2013
+"Chudhary IlyasMeharban","PTI","57160",49,"Islamabad",2013
+"Mustafa NawazKhokhar","PPP-P","44646",49,"Islamabad",2013
+"Zubair FarooqKhan","Independent","11230",49,"Islamabad",2013
+"Doctor MuhammadUsman Khan Advocate","Independent","881",49,"Islamabad",2013
+"Muhammad NadeemQureshi","Independent","701",49,"Islamabad",2013
+"Altaf HussainAwan Pakistani","Independent","486",49,"Islamabad",2013
+"Doctor RafiqueAhmed Ghuncha","TTP","426",49,"Islamabad",2013
+"Raja SharafatKhan","Independent","382",49,"Islamabad",2013
+"Muhammad Amjad","APML","336",49,"Islamabad",2013
+"Molvi IqbalHaider Advocate","AHT","313",49,"Islamabad",2013
+"IftikharHussain Awan","Independent","220",49,"Islamabad",2013
+"Noor MuhammadShah","JUI-F","196",49,"Islamabad",2013
+"ChoudharyMuhammad Ilyas","MQM","181",49,"Islamabad",2013
+"DoctorGhazanfar Mehdi","Independent","175",49,"Islamabad",2013
+"Raja AurangzebKhan","Independent","171",49,"Islamabad",2013
+"Muhammad Sultan","TI","164",49,"Islamabad",2013
+"ChaudharyGhulam Rasool Mehr","PJP","108",49,"Islamabad",2013
+"Umar Hayat","ANP","77",49,"Islamabad",2013
+"Shahbaz Raza","Independent","59",49,"Islamabad",2013
+"Sardar NaseerAhmad","PFP","58",49,"Islamabad",2013
+"MuhammadShafait","Independent","58",49,"Islamabad",2013
+"Shaikh Siddique","Independent","56",49,"Islamabad",2013
+"Naila JosephDayal","CPM","40",49,"Islamabad",2013
+"Asia Chudhary","PAP","35",49,"Islamabad",2013
+"Malik Musa Khan","Independent","26",49,"Islamabad",2013
+"ShahiKhaqan Abbasi","PML-N","133906",50,"Rawalpindi 2013 ",2013
+"Sadaqat AliAbbasi","PTI","46810",50,"Rawalpindi 2013 ",2013
+"Ghulam MurtazaSatti","Independent","44713",50,"Rawalpindi 2013 ",2013
+"SaulaMajeed SattAdvocate","JI","7463",50,"Rawalpindi 2013 ",2013
+"SaiUllah Saifi","JUI-F","7174",50,"Rawalpindi 2013 ",2013
+"MunawaHussaiAbbasi","Independent","1621",50,"Rawalpindi 2013 ",2013
+"HafiRaja MuhammaSana-ul-Haq","PST","997",50,"Rawalpindi 2013 ",2013
+"RajTariq MehmooJanjua","Independent","719",50,"Rawalpindi 2013 ",2013
+"DoctorSarfraAhmed Cheema","MJMP","580",50,"Rawalpindi 2013 ",2013
+"MuhammaKhursheed Dhanyal","Independent","574",50,"Rawalpindi 2013 ",2013
+"AamiJameel","Independent","438",50,"Rawalpindi 2013 ",2013
+"WaseeAkhteRaja","Independent","280",50,"Rawalpindi 2013 ",2013
+"EngineeMuhammad Zakir","MQM","173",50,"Rawalpindi 2013 ",2013
+"RajMuhammad JavidIkhlas","PML-N","121067",51,"Rawalpindi",2013
+"Raja ParvaizAshraf","PPP-P","67146",51,"Rawalpindi",2013
+"Raja FarhatFaheem Bhatti","PTI","39842",51,"Rawalpindi",2013
+"RajMuhammad Jawwad","JI","3121",51,"Rawalpindi",2013
+"DoctoAbdulRashid","TTP","1787",51,"Rawalpindi",2013
+"IruParveen","Independent","1011",51,"Rawalpindi",2013
+"MirzMufti MukhtaAli Khan","JUP-N","995",51,"Rawalpindi",2013
+"ShahiTanveer JanjuaAdvocate","Independent","869",51,"Rawalpindi",2013
+"KhurraParvaiz Raja","Independent","549",51,"Rawalpindi",2013
+"RajZafar Iqbal","IRP","538",51,"Rawalpindi",2013
+"MaliGulfraz AhmeFaraz","JUI-F","412",51,"Rawalpindi",2013
+"ShaMuhammad","AMP","371",51,"Rawalpindi",2013
+"MuhammaPerviaz","Independent","338",51,"Rawalpindi",2013
+"NazakaAli","Independent","293",51,"Rawalpindi",2013
+"RajFaizAkbar Janjua","PPP-SB","285",51,"Rawalpindi",2013
+"MuhammaAshraf Kayani","Independent","250",51,"Rawalpindi",2013
+"MuhammaNisarButt","APML","203",51,"Rawalpindi",2013
+"MaliTariq Mehmood","AML","177",51,"Rawalpindi",2013
+"RajMuhammad Amin Gojar Khan","Independent","155",51,"Rawalpindi",2013
+"Gul IkhlaqHussain Thathal Advocate","Independent","118",51,"Rawalpindi",2013
+"ChaudharyNisar Ali Khan","PML-N","132905",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Lt. Col ® AjmalSabir Raja","PTI","69539",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"MuhammadBasharat Raja","PML-Q","43833",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Khalid MehmoodMirza","JI","2721",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Molana MuhammadBilal Umar","MDM","2104",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Choudhary HamadAfzal","Independent","1081",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Syed Rashid AliGardezi","PFP","721",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Abadat Ali Awan","Independent","666",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Maulana AbdulGhafar Tauhadi","JUI-F","555",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Malik TariqMehmood","MQM","274",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Chaudhary IjazHussain Gujjar Advocate","PJP","261",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Ieraj ShahnawazRaja","Independent","212",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Tahir Farooq","Independent","187",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Maqsood Jan","Independent","158",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"Jibran Gill","Independent","85",52,"
+      Complete Result of NA 52 Rawalpindi",2013
+"GhulamSarwar Khan","PTI","110308",53,"Rawalpindi",2013
+"Chaudhary NisarAli Khan","PML-N","102142",53,"Rawalpindi",2013
+"Syed IntikhabHussain Shah","PPP-P","14870",53,"Rawalpindi",2013
+"KhawajMuhammaWaqar Khan","JI","3338",53,"Rawalpindi",2013
+"Hakeem MuhammadAsad","JUI-F","1966",53,"Rawalpindi",2013
+"Pir MuhammadSaeed Ahmad Nuqshbandi","TTP","1782",53,"Rawalpindi",2013
+"Muhammad Sarwar","MDM","857",53,"Rawalpindi",2013
+"KhawajaMuhammad Imtiaz","Independent","495",53,"Rawalpindi",2013
+"Syed HusnainGillani","Independent","310",53,"Rawalpindi",2013
+"Malik AzharMehmood","APML","298",53,"Rawalpindi",2013
+"Zahid MehmoodKiani","MQM","152",53,"Rawalpindi",2013
+"Bashir HussainShah","CPP","61",53,"Rawalpindi",2013
+"ProfessorMumtaz Ali Khan","Independent","45",53,"Rawalpindi",2013
+"MuhammadShafique Khan","Independent","0",53,"Rawalpindi",2013
+"Malik IbrarAhmad","PML-N","76255",54,"Rawalpindi",2013
+"Hina Nanzoor","PTI","68473",54,"Rawalpindi",2013
+"Zumurrad Khan","PPP-P","13166",54,"Rawalpindi",2013
+"Rizwan Ahmed","JI","2958",54,"Rawalpindi",2013
+"Moulana TahirAqeel Awan","MDM","1039",54,"Rawalpindi",2013
+"Chaudhary NasirMehmood","Independent","555",54,"Rawalpindi",2013
+"Muhammad AwaisSiddiqui","JUP-N","467",54,"Rawalpindi",2013
+"Asghar AliMubarik Advocate","MWM","385",54,"Rawalpindi",2013
+"Tahir Iqbal","PST","327",54,"Rawalpindi",2013
+"Israr AhmedKhan","PPP-SB","210",54,"Rawalpindi",2013
+"Muhammad AyazChaudhary","JUI-F","197",54,"Rawalpindi",2013
+"Doctor Ch IbrarAhmed","Independent","135",54,"Rawalpindi",2013
+"Doctor TahirMehmood Awan","Independent","124",54,"Rawalpindi",2013
+"Mian MuhammadAteeq Sheikh","MQM","100",54,"Rawalpindi",2013
+"Nadeem K Joseph","CPM","93",54,"Rawalpindi",2013
+"Nasir MunirAhmed","Independent","64",54,"Rawalpindi",2013
+"Muhammad Shoaib","Independent","34",54,"Rawalpindi",2013
+"Sardar NaseerAhmed","PFP","32",54,"Rawalpindi",2013
+"Khursheed AnwarQureshi","Independent","30",54,"Rawalpindi",2013
+"Syed ZahidAbbas Kazmi","PWP","30",54,"Rawalpindi",2013
+"Muhammad SaqibNaeem Sheikh","Independent","28",54,"Rawalpindi",2013
+"Muhammad YousufNawaz","JPP","20",54,"Rawalpindi",2013
+"SheikhRashid Ahmad","AML","88532",55,"Rawalpindi",2013
+"Malik ShakeelAhmad Awan","PML-N","75275",55,"Rawalpindi",2013
+"ChaudharyIftikhar Ahmad","PPP-P","6212",55,"Rawalpindi",2013
+"Muhammad HanifChaudhary","JI","2032",55,"Rawalpindi",2013
+"Hafiz ChaudharyWaseem Ahmad","JUI-F","1031",55,"Rawalpindi",2013
+"SyedSaeed-ul-Hassan Rizvi","MWM","1023",55,"Rawalpindi",2013
+"Muhammad AliSheikh","PHRP","944",55,"Rawalpindi",2013
+"Ali Ahmad Kurd","Independent","556",55,"Rawalpindi",2013
+"Alhaj MuhammadAsad Bhatti","PPP-SB","295",55,"Rawalpindi",2013
+"Muhammad ArifShah","Independent","248",55,"Rawalpindi",2013
+"Sardar NaseerAhmad","PFP","191",55,"Rawalpindi",2013
+"Ummar MehdiRaja","Independent","179",55,"Rawalpindi",2013
+"Habib UllahKhan","ANP","135",55,"Rawalpindi",2013
+"Raja AjazHussain","MQM","101",55,"Rawalpindi",2013
+"Malik RiasatAli","Independent","92",55,"Rawalpindi",2013
+"Ghulam HussainFarooqi","JUP-N","91",55,"Rawalpindi",2013
+"MakhdomMuhammad Niaz Inqalabi","Independent","68",55,"Rawalpindi",2013
+"Doctor MuhammadSultan Alam","Independent","66",55,"Rawalpindi",2013
+"Basit Ali","Independent","51",55,"Rawalpindi",2013
+"Doctor BaburZaheer Uddin","JPP","26",55,"Rawalpindi",2013
+"Nasar ullahKhan Jarral","APML","24",55,"Rawalpindi",2013
+"Muhammad AkmalMirza","Independent","20",55,"Rawalpindi",2013
+"Mirza ZulfiqarAhmad","JAKFR","15",55,"Rawalpindi",2013
+"Imran Khan","PTI","80425",56,"Rawalpindi",2013
+"Muhammad HanifAbbasi","PML-N","67167",56,"Rawalpindi",2013
+"Raza Ahmed Shah","JI","6456",56,"Rawalpindi",2013
+"Raja IsrarAhmed Abbasi Advocate","PPP-P","4089",56,"Rawalpindi",2013
+"Bin Hur Yousaf","Independent","722",56,"Rawalpindi",2013
+"Kamal Azfar","TTP","277",56,"Rawalpindi",2013
+"Muhammad ZubairAbbasi","JUI-F","272",56,"Rawalpindi",2013
+"MullanaMuhammad Ayaz","PST","131",56,"Rawalpindi",2013
+"Raja ZafarIqbal","IRP","93",56,"Rawalpindi",2013
+"MalikAurangzaib Awan","MQM","86",56,"Rawalpindi",2013
+"Alhaj MuhammadAsad Bhatti","PPP-Sb","75",56,"Rawalpindi",2013
+"Ashfaq Abbasi","Independent","73",56,"Rawalpindi",2013
+"Ali Adrees","PWP","62",56,"Rawalpindi",2013
+"Muhammad ZahidAziz Alvi Advocate","Independent","59",56,"Rawalpindi",2013
+"Asif Javeed","Independent","40",56,"Rawalpindi",2013
+"Sardar NaseerAhmed","PFP","35",56,"Rawalpindi",2013
+"Saira Khatoon","PJP","26",56,"Rawalpindi",2013
+"Muhammad ZubairKiani","Independent","26",56,"Rawalpindi",2013
+"Wajid HussainMughal","MJMP","24",56,"Rawalpindi",2013
+"Chaudhry HamadAfzal","Independent","10",56,"Rawalpindi",2013
+"Sheikh AftabAhmad","PML-N","59638",57,"Attock",2013
+"Malik AmeenAslam Khan","PTI","55515",57,"Attock",2013
+"Major (R) TahirSadiq","Independent","50878",57,"Attock",2013
+"Qari Atique urRehman","JUI-F","5607",57,"Attock",2013
+"Israr AhmadSheikh","JI","2879",57,"Attock",2013
+"Aqeel Shahzad","TTP","1946",57,"Attock",2013
+"Haji MuhammadGulzar Awan","PPP-P","1801",57,"Attock",2013
+"Hafiz SaeedAhmad","JUP-N","1437",57,"Attock",2013
+"Dilshad HussainShah","Independent","444",57,"Attock",2013
+"Nadeem RazaKhan","Independent","261",57,"Attock",2013
+"Syed Asad Abbas","Independent","250",57,"Attock",2013
+"Malik Aitbar Khan","PML-N","84722",58,"Attock",2013
+"Malik Sohail Khan","PTI","73935",58,"Attock",2013
+"Tahir Sadiq","Independent","58764",58,"Attock",2013
+"Arshad Mahmood Qadri","PST","1282",58,"Attock",2013
+"Malik Mazhar Hussain","MQM","888",58,"Attock",2013
+"MuhammadZain Elahi","Independent","60284",59,"Attock",2013
+"Asif Ali Malik","PML-N","59819",59,"Attock",2013
+"Sardar MuhammadAli Khan","PTI","33721",59,"Attock",2013
+"Sardar SaleemHaidar","PPP-P","31726",59,"Attock",2013
+"MalikAurungzaib Awan","Independent","3170",59,"Attock",2013
+"Mufti Taj uddin Rabbani","JUI-F","1966",59,"Attock",2013
+"Moulana UmarFarooq Saddique","MDM","643",59,"Attock",2013
+"Qazi ShezadaSultan ul Haq","JUP-N","375",59,"Attock",2013
+"Major (R)Tahir Iqbal","PML-N","129159",60,"Chakwal",2013
+"Sardar GhulamAbbas","Independent","100100",60,"Chakwal",2013
+"Raja YasirHumayun Sarfraz","PTI","47546",60,"Chakwal",2013
+"Raja MuhammadSana ul Haq Advocate","PPP-P","11073",60,"Chakwal",2013
+"MoulanaMuhammad Ayaz","Independent","2053",60,"Chakwal",2013
+"Peer AbdulShakoor Naqshbandi","TTP","1224",60,"Chakwal",2013
+"Hafiz AbdulQadeer","JUI-F","330",60,"Chakwal",2013
+"Syed MuhammadAal Imran","Independent","226",60,"Chakwal",2013
+"Haider WaqarHussain","Independent","173",60,"Chakwal",2013
+"Doctor MuhammadTufail","Independent","130",60,"Chakwal",2013
+"SardarMumtaz Khan","PML-N","113303",61,"Chakwal ",2013
+"ChaudharyParvez Elahi","PML-Q","98414",61,"Chakwal ",2013
+"Sardar MansoorHayyat Tamman","PTI","45343",61,"Chakwal ",2013
+"Maqsood Begum","Independent","3359",61,"Chakwal ",2013
+"Commander (R)Ayoub Malik","AWP","630",61,"Chakwal ",2013
+"Pathan Khan","Independent","615",61,"Chakwal ",2013
+"Farooq HussainShah","JUI-F","571",61,"Chakwal ",2013
+"Malik MuhammadIrfan Hussain","Independent","291",61,"Chakwal ",2013
+"Muhammad Aamir","Independent","267",61,"Chakwal ",2013
+"Hafiz MalikMuhammad Bashir","PST","181",61,"Chakwal ",2013
+"Doctor MaqsoodHayyat Tamman","Independent","131",61,"Chakwal ",2013
+"Tahir Malik","Independent","126",61,"Chakwal ",2013
+"Zafar Iqbal","MQM","75",61,"Chakwal ",2013
+"ChaudhryKhadim Hussain","PML-N","102022",62,"Jhelum",2013
+"ChoudhryMuhammad Saqlain","PTI","62572",62,"Jhelum",2013
+"ChoudhryFarrukh Altaf","PML-Q","36878",62,"Jhelum",2013
+"Raja MuhammadAfzal Khan","PPP-P","8080",62,"Jhelum",2013
+"Raja MuhammadNawaz Kayani","JI","2173",62,"Jhelum",2013
+"Chaudhary AmjidPervaiz","TTP","1397",62,"Jhelum",2013
+"ChaudharyShahbaz Hussain","Independent","717",62,"Jhelum",2013
+"Asma Raza","AML","403",62,"Jhelum",2013
+"Raja ArshadIqbal","MQM","346",62,"Jhelum",2013
+"MuhammadAurangzeb Tariq","Independent","219",62,"Jhelum",2013
+"Raja MehboobElahi","Independent","217",62,"Jhelum",2013
+"Waheed Ahmad","APML","151",62,"Jhelum",2013
+"Muhammad AmirShahid Saleem Mir","Independent","62",62,"Jhelum",2013
+"Pir MuhammadAmin Ul Hasnat Shah","PML-N","156709",64,"Sarghoda",2013
+"Nadeem AfzalGondal","PPP-P","66635",64,"Sarghoda",2013
+"Waseem Abbas","PTI","11783",64,"Sarghoda",2013
+"Nasreen Fatima","Independent","3228",64,"Sarghoda",2013
+"PirzadaMuhammad Ibrahim Shah","Independent","1810",64,"Sarghoda",2013
+"Niaz AhmadKahoot","Independent","501",64,"Sarghoda",2013
+"Syed FarzandAli Shah","MQM","461",64,"Sarghoda",2013
+"Saeed Ur Rehman","JUP-N","419",64,"Sarghoda",2013
+"Yasir Furqan","Independent","380",64,"Sarghoda",2013
+"Rana HafizJabbr Faisal Mavia","MDM","333",64,"Sarghoda",2013
+"MohsinShahnawaz Ranjha","PML-N","102517",65,"Sarghoda",2013
+"Ghias AhmadMela","PML-Q","60345",65,"Sarghoda",2013
+"Madiha MazharAli Ranjha","Independent","10378",65,"Sarghoda",2013
+"Coloner (R)Ejaz Hussain Minhas","PTI","8835",65,"Sarghoda",2013
+"Zubair AhmadGondal","JI","6681",65,"Sarghoda",2013
+"Syed NaveedAnjum Bukhari","MQM","234",65,"Sarghoda",2013
+"ChudharyHamid Hameed","PML-N","132668",66,"Sarghoda",2013
+"BarristerAbdullah Mumtaz Kahloon","PTI","36138",66,"Sarghoda",2013
+"Tasneem AhmedQureshi","PPP-P","29541",66,"Sarghoda",2013
+"Doctor MuhammdArshad Shahid","JI","9373",66,"Sarghoda",2013
+"Chuadhry JavedAnwar Comboh Advocate","Independent","1313",66,"Sarghoda",2013
+"Mehr MansoorHayat Luk","Independent","995",66,"Sarghoda",2013
+"Tayyaba Zameer","APML","670",66,"Sarghoda",2013
+"ProfessorFarooq Ahmad Tajra","PST","144",66,"Sarghoda",2013
+"Rana SajidMehmood Advocate","MQM","129",66,"Sarghoda",2013
+"Mahr MuhammadYar Khan Lak","Independent","127",66,"Sarghoda",2013
+"Syed MuhamamadSubtain Shah Naqvi","MDM","84",66,"Sarghoda",2013
+"Hafiz Ray AbdurRehman Sahi","Independent","70",66,"Sarghoda",2013
+"Navid AhmedAslam Warriach","Independent","56",66,"Sarghoda",2013
+"Doctor LiaqatAli Khan","Independent","52",66,"Sarghoda",2013
+"Muhammad AtharKhan Advocate","AWP","34",66,"Sarghoda",2013
+"DoctorZulfiqar Ali Bhatti","PML-N","108920",67,"Sarghoda",2013
+"Chaudhary AnwarAli Cheema","PML-Q","97084",67,"Sarghoda",2013
+"Sardar AhsanRaza Advocate","PTI","6964",67,"Sarghoda",2013
+"Rana MuhammadRiaz Thaikedar","Independent","4103",67,"Sarghoda",2013
+"Muhammad AliGujar Advocate","Independent","2007",67,"Sarghoda",2013
+"ChoudharyMumtaz Akhtar Kahloon","Independent","1405",67,"Sarghoda",2013
+"Abdullah MumtazKahloon","Independent","759",67,"Sarghoda",2013
+"Nadeem Awan","Independent","433",67,"Sarghoda",2013
+"Malik MuhammadIqbal Khokhar","PST","184",67,"Sarghoda",2013
+"Mian MuhammadCheema","Independent","156",67,"Sarghoda",2013
+"Shams NaveedCheema Advocate","Independent","154",67,"Sarghoda",2013
+"Muhammad SarwarBhatti","Independent","135",67,"Sarghoda",2013
+"MuhammadNawaz Sharif","PML-N","140546",68,"Sarghoda",2013
+"Noor HayatKalyar","PTI","45463",68,"Sarghoda",2013
+"Syed Nusrat AliShah","PPP-P","21395",68,"Sarghoda",2013
+"Rana MuhammadZeeshan","MDM","6580",68,"Sarghoda",2013
+"Haji ChaudharyMuhammad Ali Alias Nadeem Arain","Independent","3374",68,"Sarghoda",2013
+"Malik SabeehUllah Khan","Independent","1150",68,"Sarghoda",2013
+"Muahmmad OwaisShah","Independent","987",68,"Sarghoda",2013
+"Qari Atta UllahDarvaish","Independent","949",68,"Sarghoda",2013
+"ChaudharyMumtaz Ahkhter Kaheloon","Independent","629",68,"Sarghoda",2013
+"Syed MuhammadMehboob Shah Hashmi","Independent","571",68,"Sarghoda",2013
+"ChaudharyHomayoon Rasool Gujar","Independent","334",68,"Sarghoda",2013
+"ChaudharyShafique Ur Rehman Gujar","MQM","208",68,"Sarghoda",2013
+"ChaudharyMubashir Ahmad Arain","Independent","162",68,"Sarghoda",2013
+"BarristerAbdullah Mumtaz Kahloon","Independent","130",68,"Sarghoda",2013
+"Sardar AliAbbas Khan Baloch","Independent","106",68,"Sarghoda",2013
+"Malik ShakirBashir Awan","PML-N","93788",70,"Khushab",2013
+"Sardar ShujjaMuhammad Khan","Independent","64404",70,"Khushab",2013
+"Gul Asghar Khan","PTI","37828",70,"Khushab",2013
+"Abdullah Ahmad","JUI-F","7921",70,"Khushab",2013
+"Doctor MuhammadRashid Malik","PPP-P","2913",70,"Khushab",2013
+"Khalil Ahmad","Independent","736",70,"Khushab",2013
+"Syed ImranHaidar Shah","MQM","588",70,"Khushab",2013
+"Malik ZafarIqbal Borana","Independent","347",70,"Khushab",2013
+"Imran Khan","PTI","132283",71,"Mianwali",2013
+"Obaid ullahKhan Shadi Khel","PML-N","72859",71,"Mianwali",2013
+"Muhammad Sardar Bahadur Babar Khan ofSawans","Independent","4926",71,"Mianwali",2013
+"Syed RafiqAhmad Shah","Independent","1829",71,"Mianwali",2013
+"Shaukat PervezKhan","PPP-P","919",71,"Mianwali",2013
+"Abdul AzeemKhan urf Jimmi Khan","Independent","421",71,"Mianwali",2013
+"Allama Pir Muhammad Khan Qadri","TAS","328",71,"Mianwali",2013
+"Muhammad Asghar Khan","Independent","322",71,"Mianwali",2013
+"Doctor MuhammadKhalid Qureshi","Independent","277",71,"Mianwali",2013
+"Inam Ulah KhanNiazi","Independent","182",71,"Mianwali",2013
+"Muhammad Ali Khan Niazi","Independent","182",71,"Mianwali",2013
+"Abdul HameedKhan","MQM","143",71,"Mianwali",2013
+"Amjid Ali Khan","PTI","124668",72,"Mianwali",2013
+"Humair HiyatKhan Rokhari","PML-N","64990",72,"Mianwali",2013
+"Malik SajjadBhachar","Independent","27201",72,"Mianwali",2013
+"Inam Ullah KhanNiazi","Independent","8184",72,"Mianwali",2013
+"Javed Iqbal","Independent","1188",72,"Mianwali",2013
+"Gul Kamand KhanYaru Khel","Independent","1146",72,"Mianwali",2013
+"Malik KhalidAwan","PPP-P","1136",72,"Mianwali",2013
+"Muhamamd Ilyas","MQM","587",72,"Mianwali",2013
+"Muhamamd AshrafKhan Niazi","IPM","174",72,"Mianwali",2013
+"Abdul MajeedKhan","PML-N","97676",73,"Bhakkar",2013
+"MuhammadSanaullah Khan Masti Khel","Independent","91066",73,"Bhakkar",2013
+"Ehsan ullahKhan Baloch","MWM","10340",73,"Bhakkar",2013
+"Najeeb UllahKhan","Independent","3579",73,"Bhakkar",2013
+"Malik Anzar AliKhawar","Independent","3355",73,"Bhakkar",2013
+"Asghar Ali Jara","PPP-P","3225",73,"Bhakkar",2013
+"Muhammad ArshadAwan","Independent","2230",73,"Bhakkar",2013
+"Abdul HameedKhan","JI","1588",73,"Bhakkar",2013
+"Qari Fateh Khan","SIC","791",73,"Bhakkar",2013
+"Nighat YasmeenBegum","Independent","585",73,"Bhakkar",2013
+"Qazi NaeemAkhtar","MDM","577",73,"Bhakkar",2013
+"Ameer MuhammadKhan","Independent","539",73,"Bhakkar",2013
+"Muhammad Nawaz","MQM","464",73,"Bhakkar",2013
+"Muhammad ArshadFaqir","PJP","417",73,"Bhakkar",2013
+"Farooq AhmadKhan Hassan Khali","Independent","388",73,"Bhakkar",2013
+"Aziz Ahmad KhanMasti Khel","Independent","235",73,"Bhakkar",2013
+"Muhammad Khan","Independent","124",73,"Bhakkar",2013
+"Saeed AkbarKhan","Independent","---",73,"Bhakkar",2013
+"Dr.MuhammadAfzal Khan Dhandla","Independent","116831",74,"Bhakkar",2013
+"Hasnain EjazKhan Shahani","PPP-P","13421",74,"Bhakkar",2013
+"Habib UllahKhan Nawani","Independent","8226",74,"Bhakkar",2013
+"Rafiq AhmadKhan Niazi","PTI","6078",74,"Bhakkar",2013
+"Ahmad NawazKhan","Independent","3041",74,"Bhakkar",2013
+"Sardar SikandarAhmad Khan","Independent","3041",74,"Bhakkar",2013
+"Naveed ZafarShah","JI","1374",74,"Bhakkar",2013
+"Syed MukhtiarHussain Shah Sherazi","Independent","234",74,"Bhakkar",2013
+"Allama SyedFarman Raza Abidi","MQM","227",74,"Bhakkar",2013
+"Muddassar NazirUtra","Independent","194",74,"Bhakkar",2013
+"MuhammadTallal Choudhary","PML-N","101459",76,"Faisalabad",2013
+"Malik NawabSher Wassir","PPP-P","34752",76,"Faisalabad",2013
+"Muhammad WaqarWasi Chaudhary","PTI","17490",76,"Faisalabad",2013
+"Abdul WaheedKhan Niazi","Independent","14465",76,"Faisalabad",2013
+"Chaudhary AzharHussain","Independent","7151",76,"Faisalabad",2013
+"Yahya Bakhtiar","JI","3228",76,"Faisalabad",2013
+"Sadia Khan","Independent","1176",76,"Faisalabad",2013
+"MuhammadMuzzammil","TTP","1157",76,"Faisalabad",2013
+"Rai ShujaTanvir Rahi","Independent","700",76,"Faisalabad",2013
+"Choudhary SanaUllah Bajwa","Independent","644",76,"Faisalabad",2013
+"Muhammad ArfanSiddiquei Advocate","MDM","376",76,"Faisalabad",2013
+"Muhammad YousafAdil","Independent","376",76,"Faisalabad",2013
+"QaziSibghatullah","Independent","374",76,"Faisalabad",2013
+"Shahid Sultan","MQM","294",76,"Faisalabad",2013
+"Shafqat Rana","Independent","281",76,"Faisalabad",2013
+"Haji RasheedAhmad Khan Rana","APML","116",76,"Faisalabad",2013
+"Major (R) AbdulRehman Rana","Independent","116",76,"Faisalabad",2013
+"Abdul Majeed","Independent","76",76,"Faisalabad",2013
+"Rai MuhammadShah Jahan Khan Kharal","Independent","75",76,"Faisalabad",2013
+"Zia ShahidWaseer","Independent","65",76,"Faisalabad",2013
+"Sajid MehmoodQadri","PST","41",76,"Faisalabad",2013
+"Rai IjazHussain","Independent","34",76,"Faisalabad",2013
+"Mian Abu BakarHamza","PML-Z","33",76,"Faisalabad",2013
+"Sardar AkbarAll Dogar Advocate","Independent","27",76,"Faisalabad",2013
+"Waseem Afzaal","Independent","24",76,"Faisalabad",2013
+"Manzoor AliAdvocate","Independent","14",76,"Faisalabad",2013
+"MuhammadAsim Nazeer","PML-N","97957",77,"Faisalabad",2013
+"Zaheer ud din","PML-Q","58590",77,"Faisalabad",2013
+"Rai Naeem AsadKharal","PTI","10148",77,"Faisalabad",2013
+"Sarwar KhanLashari Advocate","Independent","1804",77,"Faisalabad",2013
+"Sajjid Ali","MQM","1089",77,"Faisalabad",2013
+"Rai MuhammadAkram Khan","JI","674",77,"Faisalabad",2013
+"Ali Akhtar","Independent","523",77,"Faisalabad",2013
+"Peer SayedMunir Hussain Shah Noori","PST","510",77,"Faisalabad",2013
+"MuhammadMuzzammil","TTP","391",77,"Faisalabad",2013
+"Rana Asad ElahiQadri","Independent","211",77,"Faisalabad",2013
+"Shabir Ahmad","Independent","151",77,"Faisalabad",2013
+"Rai Haider AllKhan","Independent","78",77,"Faisalabad",2013
+"Sakhawat lmran","Independent","75",77,"Faisalabad",2013
+"Mehmood Ahmad","Independent","70",77,"Faisalabad",2013
+"Haji SaithManzoor Ahmad Gojar","Independent","67",77,"Faisalabad",2013
+"Muhammad KhanNadeem","Independent","49",77,"Faisalabad",2013
+"Malik GhukamMurtaza Zahid Khichi","Independent","35",77,"Faisalabad",2013
+"Rana MuhammadTaimoor Hamyat","Independent","19",77,"Faisalabad",2013
+"Syed MuhammadMakhdoom Gilani","Independent","---",77,"Faisalabad",2013
+"Rajab AliKhan Baloch","PML-N","87959",78,"Faisalabad",2013
+"Muhammad SafdarShakir","Independent","45804",78,"Faisalabad",2013
+"Shahadat AliKhan Baloch","PPP-P","23236",78,"Faisalabad",2013
+"SaadullahMehmood Alias Muhammad Yasir Baloch","PTI","11227",78,"Faisalabad",2013
+"Waqar MushtaqToor","Independent","3454",78,"Faisalabad",2013
+"Mehar GhulamMustafa Mangan Advocate","Independent","2645",78,"Faisalabad",2013
+"ChaudharyNadeem","Independent","949",78,"Faisalabad",2013
+"Sahibzada AhmadRaza Qasoori","APML","923",78,"Faisalabad",2013
+"Muhammad AminWatto","MQM","379",78,"Faisalabad",2013
+"ChaudahryMuhammad Shahbaz Babar","PML-N","116334",79,"Faisalabad",2013
+"Khalid AbdullahGhazi","Independent","22007",79,"Faisalabad",2013
+"Farkhanda AmjadWaraich","PNML","11495",79,"Faisalabad",2013
+"Choudhary AdilSaboor","Independent","4619",79,"Faisalabad",2013
+"Alhaj ChaudharyZulfiqar Ali","MNAKA","2476",79,"Faisalabad",2013
+"ChaudahryMuhammad Anwar","JI","2107",79,"Faisalabad",2013
+"MuhammadSarfraz Akbar","SIC","1530",79,"Faisalabad",2013
+"Tahir AnjuChaudahry","Independent","1080",79,"Faisalabad",2013
+"Imtiaz Ali","MQM","894",79,"Faisalabad",2013
+"Anwar Chaudhary","Independent","684",79,"Faisalabad",2013
+"Haji MuhammadYasin","Independent","453",79,"Faisalabad",2013
+"Qari NasirMehmood Mughal","Independent","345",79,"Faisalabad",2013
+"Rana ZeeshanAli Khan Advocate","Independent","341",79,"Faisalabad",2013
+"Muhammad YaqoobAdvocate","Independent","325",79,"Faisalabad",2013
+"Muhammad UsmanSaeed Khan","Independent","207",79,"Faisalabad",2013
+"Muhammad FarooqArshad","Independent","148",79,"Faisalabad",2013
+"ChaudahryMuhammad Mustaqeem Mahar","Independent","117",79,"Faisalabad",2013
+"ChaudharyGulzar Hussain Gohar Advocate","APML","108",79,"Faisalabad",2013
+"Abdul RasheedChugtai","Independent","94",79,"Faisalabad",2013
+"AmanullahMohsin Karangi","Independent","88",79,"Faisalabad",2013
+"Admiral (R)Javeed Iqbal","PFP","79",79,"Faisalabad",2013
+"MianMuhammad Farooq","PML-N","85964",80,"Faisalabad",2013
+"Rana AsifTouseef","PML-Q","54402",80,"Faisalabad",2013
+"Mian MuhammadNaeem","PTI","24977",80,"Faisalabad",2013
+"Khalid RafeeCheema","Independent","12918",80,"Faisalabad",2013
+"Chaudhary RazaNasrullah Ghuman","Independent","5901",80,"Faisalabad",2013
+"Basharat AllKhan Advocate","SIC","1465",80,"Faisalabad",2013
+"Rana MuhammadAdnan Khan","JI","1302",80,"Faisalabad",2013
+"ChaudharyGhulam Dastageer","APML","482",80,"Faisalabad",2013
+"MuhammadMukhtar","Independent","306",80,"Faisalabad",2013
+"Muhammad Zafarlqbal Gujjar","AJP","246",80,"Faisalabad",2013
+"Nisar Ahmad","PML-N","122041",81,"Faisalabad",2013
+"Saeed Iqbal","PPP-P","40163",81,"Faisalabad",2013
+"JahanzaibImtiaz Gill","PTI","28578",81,"Faisalabad",2013
+"MuhammadShahbaz Kissana Advocate","Independent","7285",81,"Faisalabad",2013
+"EngineerMuhamamd Azeem Randhawa","JI","5774",81,"Faisalabad",2013
+"Mashood AhsanGill","APML","626",81,"Faisalabad",2013
+"ChaudharyDilbar Hussain Ghaffari","AML","606",81,"Faisalabad",2013
+"ChaudharyTaseer Iqbal Gill","Independent","457",81,"Faisalabad",2013
+"Rana AkbarAbbas","AJP","209",81,"Faisalabad",2013
+"Doctor MuhamamdYasin","Independent","160",81,"Faisalabad",2013
+"Muhammad YaseenKhan","Independent","160",81,"Faisalabad",2013
+"Rao AliSheharyar Khan","Independent","132",81,"Faisalabad",2013
+"RanaMuhammad Afzal Khan","PML-N","126349",82,"Faisalabad",2013
+"Nisar AkbarKhan","PTI","36373",82,"Faisalabad",2013
+"SahibzadaMuhammad Hamid Raza","SIC","27632",82,"Faisalabad",2013
+"Mian MuhammadYounis","JI","2153",82,"Faisalabad",2013
+"Malik MuhammadSiddique Advocate","APML","1789",82,"Faisalabad",2013
+"Muhammad AslamMiraj","AWP","1619",82,"Faisalabad",2013
+"Rana IhsanAfzal Khan","Independent","819",82,"Faisalabad",2013
+"Naveed AhmadSindhu","Independent","796",82,"Faisalabad",2013
+"ChaudharyMuhammad lqbal","PNML","583",82,"Faisalabad",2013
+"Asad Ali Ansari","Independent","414",82,"Faisalabad",2013
+"Doctor MunawarFayyaz Sunny","Independent","346",82,"Faisalabad",2013
+"Mehr HamidRashid","Independent","289",82,"Faisalabad",2013
+"Tipu Sultan","JUI-F","278",82,"Faisalabad",2013
+"Muhammad Umer","Independent","271",82,"Faisalabad",2013
+"Mohtarma NazishAslam Advocate","AJP","117",82,"Faisalabad",2013
+"Sarfraz Ahmad","Independent","112",82,"Faisalabad",2013
+"Makhdoom SyyedZawar Hussain","MQM","81",82,"Faisalabad",2013
+"Rana MuhammadFazal Haq","Independent","39",82,"Faisalabad",2013
+"Mufti AbdulShakoor Rizvi","JUP-N","38",82,"Faisalabad",2013
+"Malik KashifAwan","Independent","33",82,"Faisalabad",2013
+"Rana MuhammadJaved Ashraf","Independent","25",82,"Faisalabad",2013
+"Mian SaqibRahman","Independent","12",82,"Faisalabad",2013
+"Mian Abdul Manan","PML-N","47107",83,"Faisalabad Bye",2013
+"Faizullah Kamoka","PTI","36966",83,"Faisalabad Bye",2013
+"Mumtaz Ali Cheema","PPP-P","9942",83,"Faisalabad Bye",2013
+"Mian Nadeem Ahmad Saleemi","APML","251",83,"Faisalabad Bye",2013
+"Haji Muhammad Ashraf Mughal","Independent","94",83,"Faisalabad Bye",2013
+"Irfan Ahmad","Independent","92",83,"Faisalabad Bye",2013
+"Rana Basharat Ali","AJP","83",83,"Faisalabad Bye",2013
+"Emanuel Akhtar Gill","Independent","50",83,"Faisalabad Bye",2013
+"Manzoor Joori","MQM","31",83,"Faisalabad Bye",2013
+"Hakeem Syed Jaffar HussainhBukhari","MWM","30",83,"Faisalabad Bye",2013
+"Haji Muhammad Ali Makhdoom","Independent","15",83,"Faisalabad Bye",2013
+"Ch. Abid Ali","PML-N","103176",84,"Faisalabad",2013
+"Farrukh Habib","PTI","42336",84,"Faisalabad",2013
+"Malik AsgharAli Qaisar","PPP-P","21343",84,"Faisalabad",2013
+"Doctor KhalidImtiaz Khan Baloch","Independent","6985",84,"Faisalabad",2013
+"Sardar ZafarHussain Khan","JI","2252",84,"Faisalabad",2013
+"Israr AhmadChishti Advocate","APML","1532",84,"Faisalabad",2013
+"MakhdoomzadaSyed Muhammad Zakaria Shah","JUI-F","1251",84,"Faisalabad",2013
+"Rana MuhammadSaeed Khan","TTP","291",84,"Faisalabad",2013
+"Mrs. MehwishChaudhary Advocate","PGP","256",84,"Faisalabad",2013
+"Mian Salahuddin","Independent","195",84,"Faisalabad",2013
+"Tanvir AbbasBhatia","Independent","189",84,"Faisalabad",2013
+"Adnan AnwarRehmani","Independent","163",84,"Faisalabad",2013
+"Sajid iqbalGujjar","Independent","156",84,"Faisalabad",2013
+"Mahr GhulamMustafa Mangan Advocate","AJP","78",84,"Faisalabad",2013
+"Javed Zulfiqar","Independent","52",84,"Faisalabad",2013
+"ChaudharyMunawar Hafeez","MQM","50",84,"Faisalabad",2013
+"MuhammadMushtaq","Independent","48",84,"Faisalabad",2013
+"Haji Muhammad Akram Ansari","PML-N","124591",85,"Faisalabad",2013
+"BrigadierhMumtaz Iqbal Kahlon","PTI","55215",85,"Faisalabad",2013
+"MalikhSardar Muhammad Tralay Wala","PPP-P","11174",85,"Faisalabad",2013
+"SheikhhMuhammad Mushtaq","JI","2131",85,"Faisalabad",2013
+"MuhammadhAli Shehbaz","Independent","1720",85,"Faisalabad",2013
+"Mian AbdulhQayum","AWP","1090",85,"Faisalabad",2013
+"ChaudharyhNasir Habib Advocate","Independent","495",85,"Faisalabad",2013
+"SheikhhRashid Mehmood","Independent","298",85,"Faisalabad",2013
+"Haji AbdulhLatif Zargar","Independent","263",85,"Faisalabad",2013
+"MumtazhSahib Taj","Independent","216",85,"Faisalabad",2013
+"SayyedahNighat Ishfaq","AJP","152",85,"Faisalabad",2013
+"AdnanhAbdullah","Independent","151",85,"Faisalabad",2013
+"AbdurhRehman Wahla","Independent","108",85,"Faisalabad",2013
+"Anwar AlihKhan","MQM","90",85,"Faisalabad",2013
+"MalikhEhsaan Ul Haq","Independent","73",85,"Faisalabad",2013
+"AlhaajhMuhammad Hassan Chaudhry","PIJP","54",85,"Faisalabad",2013
+"RanahMuhammad Yasin","Independent","37",85,"Faisalabad",2013
+"Qaisar AhmadShaikh","PML-N","77512",86,"Chiniot",2013
+"Zulfiqar AllShah","PPP-P","46258",86,"Chiniot",2013
+"Syed Inayat AliShah","PTI","24998",86,"Chiniot",2013
+"Sheikh QaisarMehmood","Independent","18643",86,"Chiniot",2013
+"Manzoor AhmadJappa","Independent","6299",86,"Chiniot",2013
+"Abbas Ali Shah","Independent","1125",86,"Chiniot",2013
+"Abdul Qayyum","JI","825",86,"Chiniot",2013
+"Syed ZulfiqarAli Shah","Independent","625",86,"Chiniot",2013
+"Mumtaz Hussain","Independent","444",86,"Chiniot",2013
+"Ali Raza Asif","Independent","317",86,"Chiniot",2013
+"Mehar ArshadQamar Girwah","SIC","289",86,"Chiniot",2013
+"Syed Ali AbbasKazmi","APML","240",86,"Chiniot",2013
+"Mufti MuhammadShoaib","Independent","177",86,"Chiniot",2013
+"Rana TajamulWseem","MQM","161",86,"Chiniot",2013
+"Umar Farooq","MDM","127",86,"Chiniot",2013
+"Muhammad AshrafKhan Chidhar","Independent","78",86,"Chiniot",2013
+"GhulamMuhammad Laali","PML-N","93651",87,"Chiniot",2013
+"Makhdoom SyedFaisal Saleh Hayat","Independent","80541",87,"Chiniot",2013
+"Syed AbidHussain Imam","PPP-P","17220",87,"Chiniot",2013
+"Chaudhry SajidAli Chadhar","JI","11123",87,"Chiniot",2013
+"Muhammad AhsanLali","Independent","1744",87,"Chiniot",2013
+"Rai SarfrazAhmad Bhatti","Independent","634",87,"Chiniot",2013
+"Chaudhry RehmatAli Khan Bhatti","Independent","575",87,"Chiniot",2013
+"Manzoor AliKhan","Independent","528",87,"Chiniot",2013
+"Ghulam AkbarKhokhar Qutab Shahi","Independent","437",87,"Chiniot",2013
+"Malik TanveerHussain","MQM","279",87,"Chiniot",2013
+"Rai RiazHussain","Independent","258",87,"Chiniot",2013
+"Ghulam BibiBharwana","PML-N","87002",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"MakhdoomzadaAsad Hayyat","Independent","68850",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"KhawjaAttaullah Khan Tounsa Sharif","PPP-P","6784",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Zafar JamalKhan Advocate","JI","3576",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Qazi MuhammadIqbal","Independent","2297",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Tahir KhanBaloch Advocate","Independent","1092",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Moulana AbdulWaheed","MDM","909",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Fozia Ashraf","PML-J","623",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Ahmad HassanBharwana","Independent","563",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Shaikh HakimAli","Independent","199",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"Ghulam MuhammadRajoka","MQM","189",88,"
+      Complete Result of NA 88 Old Jhang II",2013
+"SheikhMuhammad Akram","PML-N","74324",89,"Jhang",2013
+"Molana MuhammadAhmad Ludhianvi","MDM","71598",89,"Jhang",2013
+"Shaikh WaqarAhmad Advocate","PTI","8236",89,"Jhang",2013
+"Syed TariqGillani","PPP-P","3431",89,"Jhang",2013
+"Sheikh DaniyalIqbal","Independent","2463",89,"Jhang",2013
+"Aman Ullah KhanSial","Independent","1551",89,"Jhang",2013
+"Sheikh NawazAkram","Independent","1341",89,"Jhang",2013
+"Abdul JabbarKhan","JI","1144",89,"Jhang",2013
+"Sheikh SherazAkram","Independent","924",89,"Jhang",2013
+"Rashida Yaqoob","Independent","583",89,"Jhang",2013
+"Muhammad YaqoobSheikh","Independent","583",89,"Jhang",2013
+"Sheikh WaheedAhmad","Independent","345",89,"Jhang",2013
+"Tamkanat ulMuntaha Hashmi Advocate","Independent","220",89,"Jhang",2013
+"Malik MuhammadArshad urf Achi","Independent","209",89,"Jhang",2013
+"Muhammad HassanRaza Amir Sargana","Independent","111",89,"Jhang",2013
+"Mian MuhammadShahbaz Janjua","Independent","107",89,"Jhang",2013
+"Arif Jamal","MQM","103",89,"Jhang",2013
+"Sardaran Begum","Independent","92",89,"Jhang",2013
+"Ghulam Rasool","JWP","64",89,"Jhang",2013
+"Moulana AbdulGhafoor Jhangvi","Independent","58",89,"Jhang",2013
+"Fawad Akram","Independent","34",89,"Jhang",2013
+"ChaudharyMuhammad Rafi","PFP","29",89,"Jhang",2013
+"SahibzadaMuhammad Nazir Sultan","Independent","52106",90,"Jhang",2013
+"Saima AkhtarBharwana","PML-N","41620",90,"Jhang",2013
+"Mulana MuhammadAsif Mavia Sial","MDM","37794",90,"Jhang",2013
+"Brigadier (R)Abid Hussain Junjiana","Independent","16762",90,"Jhang",2013
+"Saleem MehmoodKamlana Sial","PTI","1890",90,"Jhang",2013
+"ChaudharyMuhammad Anwar","Independent","701",90,"Jhang",2013
+"Abdul QudoosAwan","PPP-P","423",90,"Jhang",2013
+"Haji MuhammadIrshad Mund","JI","388",90,"Jhang",2013
+"Syed RiffatHussain Shah Kazmi","MQM","279",90,"Jhang",2013
+"Muhammad RamzanGhallu","Independent","216",90,"Jhang",2013
+"Mumtaz Hussain","Independent","183",90,"Jhang",2013
+"Akhlaq Ahmad","Independent","169",90,"Jhang",2013
+"Mulazim HussainJafari","Independent","96",90,"Jhang",2013
+"Haji MuhammadGulzar Awan","PAM","28",90,"Jhang",2013
+"Najaf AbbasSial","Independent","90867",91,"Jhang",2013
+"SahibzadaMuhammad Mehboob Sultan","PML-N","86696",91,"Jhang",2013
+"SahibzadaMohammad Ameer Sultan","Independent","1499",91,"Jhang",2013
+"Mujahid AbbasKhan","MQM","1338",91,"Jhang",2013
+"Nadeem MumtazQureshi","MP","1308",91,"Jhang",2013
+"Sardar AzharAli Mekan","PPP-P","757",91,"Jhang",2013
+"Khan MazharAbbas Khan Rajbana Advocate","Independent","539",91,"Jhang",2013
+"Chaudhry KhalidJaved Warraich","PML-N","90915",92,"T.T Singh ",2013
+"Usama Hamza","Independent","60933",92,"T.T Singh ",2013
+"Mrs. Amjad AliWarraich","PNML","36522",92,"T.T Singh ",2013
+"Haji KhalidMehmood Chatha","Independent","12183",92,"T.T Singh ",2013
+"Haji MuhammadIshaq","PPP-P","6428",92,"T.T Singh ",2013
+"Qari MuhammadAsif Gujjar","JI","2141",92,"T.T Singh ",2013
+"Muhammad Tahir","TTP","1836",92,"T.T Singh ",2013
+"Umer Farooq","Independent","614",92,"T.T Singh ",2013
+"Rani Dougal","Independent","571",92,"T.T Singh ",2013
+"ChaudhryMuhammad Akram Nazeer","Independent","272",92,"T.T Singh ",2013
+"Malik MuhammadKamran Younis","Independent","204",92,"T.T Singh ",2013
+"ChaudhryMuhammad Adnan Mushtaq Chanjotra","GWP","168",92,"T.T Singh ",2013
+"Malik KhalidDad","PWMAP","62",92,"T.T Singh ",2013
+"Zeeshan HasanSidhu Advocate","Independent","52",92,"T.T Singh ",2013
+"MuhammadJunaid Anwaar Chaudhry","PML-N","117281",93,"TT Singh ",2013
+"Muhammad Ashfaq","PTI","95372",93,"TT Singh ",2013
+"Sajjad AhmadSohal","PNML","3395",93,"TT Singh ",2013
+"Rana ZafarIqbal","Independent","2110",93,"TT Singh ",2013
+"Muhammad Abbas","PPP-P","1622",93,"TT Singh ",2013
+"Sobia Junaid","Independent","248",93,"TT Singh ",2013
+"ChaudhryIftikhar Ahmed Siddhu Advocate","MQM","241",93,"TT Singh ",2013
+"Farzand AliRashid","Independent","235",93,"TT Singh ",2013
+"Doctor MuhammadAslam Javaid Awan","JUP-N","190",93,"TT Singh ",2013
+"Anwaar Ul Haq","Independent","139",93,"TT Singh ",2013
+"Rani Dougal","Independent","113",93,"TT Singh ",2013
+"Yameen UrRehman Al Maroof Shafi Mobile Walay","Independent","99",93,"TT Singh ",2013
+"Haji MianMuhammad Iqbal Lala","Independent","62",93,"TT Singh ",2013
+"ChaudharyAsad-Ur-Rehman","PML-N","102723",94,"TT Singh",2013
+"Syed Qutab AliShah Alias Ali Baba","PPP-P","64168",94,"TT Singh",2013
+"Riaz Fatyana","Independent","55378",94,"TT Singh",2013
+"Zahid Imran","Independent","1128",94,"TT Singh",2013
+"Dilshad AhmadChaudhry","MDM","1102",94,"TT Singh",2013
+"Doctor MaqsoodAhmad Shanawar","Independent","742",94,"TT Singh",2013
+"Sarwar Chaudhri","Independent","641",94,"TT Singh",2013
+"Sardar SiddiqueAkbar Khatana Advocate","Independent","533",94,"TT Singh",2013
+"Syed Asad AbbasShah","Independent","482",94,"TT Singh",2013
+"Muhammad IrshadAnwar","JI","407",94,"TT Singh",2013
+"Shahbaz Fateh","Independent","229",94,"TT Singh",2013
+"Muhammad KhaliqSiddique","APML","109",94,"TT Singh",2013
+"Abdul WaseemKhan Ghouri","MQM","71",94,"TT Singh",2013
+"Farooq Gujjar","Independent","57",94,"TT Singh",2013
+"Mustafa Rumdey","Independent","55",94,"TT Singh",2013
+"Ayesha RazaFarooq","Independent","49",94,"TT Singh",2013
+"Zahoor ul Haq","Independent","44",94,"TT Singh",2013
+"UsmanIbrahim","PML-N","108419",95,"Gujranwala",2013
+"Ali AshrafMughal","PTI","27799",95,"Gujranwala",2013
+"ChudharyMuhammad Saddique","PPP-P","15924",95,"Gujranwala",2013
+"Haji MuhammadAshraf Kareemi","Independent","8444",95,"Gujranwala",2013
+"Tariq JavedButt","JI","2904",95,"Gujranwala",2013
+"Abdul KareemTokay Khan Bhai","Independent","853",95,"Gujranwala",2013
+"Mufti JameelAhmad","JUI-F","541",95,"Gujranwala",2013
+"Jawwad IqbalRehan Advocate","Independent","354",95,"Gujranwala",2013
+"Muhammad FarooqMalik","Independent","166",95,"Gujranwala",2013
+"Chand FaisalUppal Advocate","MDM","151",95,"Gujranwala",2013
+"Barrister UamrNawaz Chohan","Independent","75",95,"Gujranwala",2013
+"Sardar KhyzerHayat Doger","Independent","70",95,"Gujranwala",2013
+"Mehar MuhammadMuthar Ramzan Advocate","PML-J","58",95,"Gujranwala",2013
+"Babu MuhammadAsim Anees Mughal","Independent","39",95,"Gujranwala",2013
+"Usman AshrafMughal","Independent","39",95,"Gujranwala",2013
+"ChudharyMuhammad Waseem","Independent","28",95,"Gujranwala",2013
+"Kaleem AhmadBhatti","Independent","28",95,"Gujranwala",2013
+"Muhammad AminButt","Independent","27",95,"Gujranwala",2013
+"ChudharyMuhammad Ansar Nutt","Independent","13",95,"Gujranwala",2013
+"Chudhary KhalidZafar Sansi","Independent","9",95,"Gujranwala",2013
+"ChudharyShoukat Ali Jutt","Independent","9",95,"Gujranwala",2013
+"Izzat MaabArshad Rabbani","Independent","6",95,"Gujranwala",2013
+"EngineerKhurram Dastgir Khan","PML-N","105104",96,"Gujranwala",2013
+"S A Hameed","PTI","29942",96,"Gujranwala",2013
+"ChaudharyMuhammad Saeed Gujar","PPP-P","13756",96,"Gujranwala",2013
+"Hameed U DeenAwan","JI","3533",96,"Gujranwala",2013
+"Shabraz AbbasAwan","Independent","840",96,"Gujranwala",2013
+"Muhammad ShahZaman","JUI-F","460",96,"Gujranwala",2013
+"Zahid SadiqueAnsari","TTP","385",96,"Gujranwala",2013
+"Raza Hameed","Independent","143",96,"Gujranwala",2013
+"ChoudharyMuhammad Nazir","Independent","117",96,"Gujranwala",2013
+"Hafiz RanaMuhammad Usman Shakar","MDM","107",96,"Gujranwala",2013
+"Khawja AnwaarAhmad Sheikh","Independent","89",96,"Gujranwala",2013
+"Rana ArshadSaeed Khan","APML","43",96,"Gujranwala",2013
+"Sheikh Naveed","Independent","40",96,"Gujranwala",2013
+"Ali Shabbir","Independent","40",96,"Gujranwala",2013
+"Rana AbdulRehman Sultani","MQM","35",96,"Gujranwala",2013
+"MuhammadShabbir","Independent","34",96,"Gujranwala",2013
+"Atif FareedSabir Khan","Independent","26",96,"Gujranwala",2013
+"Mushtaq Ahmad","Independent","25",96,"Gujranwala",2013
+"Mirza JahaNgirBaig","Independent","15",96,"Gujranwala",2013
+"Fasail Saeed","Independent","13",96,"Gujranwala",2013
+"Qaiser MahmoodHaji Naqshbandi","Independent","13",96,"Gujranwala",2013
+"ChaudhryMahmood Bashir Virk","PML-N","104674",97,"Gujranwala",2013
+"Rana Naeem UrRehman Khan","PTI","30946",97,"Gujranwala",2013
+"ChaudhryMuhammad Anwar Bhinder","PML-Q","16032",97,"Gujranwala",2013
+"Doctor Zain AliBhatti","Independent","5057",97,"Gujranwala",2013
+"Zaheer AhmadZia Warraich","TTP","3382",97,"Gujranwala",2013
+"Rana JavedIqbal","JI","2318",97,"Gujranwala",2013
+"Rana MuhammadIqbal","Independent","1091",97,"Gujranwala",2013
+"Hafiz MuhammadSafdar Qasmi","MDM","1051",97,"Gujranwala",2013
+"Sheikh NadeemAkhtar","Independent","1005",97,"Gujranwala",2013
+"Abdul SattarShakir","Independent","456",97,"Gujranwala",2013
+"Hafiz MahmoodUl Hassan","JUI-F","284",97,"Gujranwala",2013
+"Muhammad Imran","SIC","120",97,"Gujranwala",2013
+"Farhat Mubeen","Independent","112",97,"Gujranwala",2013
+"Irshad UllahYasser","Independent","111",97,"Gujranwala",2013
+"Muhammad Yaseen","MQM","105",97,"Gujranwala",2013
+"EngineerMuhammad Ashraf Butt","Independent","48",97,"Gujranwala",2013
+"Mian TariqMehmood","PML-N","119224",98,"Gujranwala",2013
+"Imtiaz SafdarWarraich","PPP-P","36768",98,"Gujranwala",2013
+"Rana ShehzadHafeez","PTI","20717",98,"Gujranwala",2013
+"Bilal QudratButt","JI","12960",98,"Gujranwala",2013
+"Adil FarooqKhan","PML-J","7279",98,"Gujranwala",2013
+"Muhammad Afzal","Independent","933",98,"Gujranwala",2013
+"Mian GhulamSarwar","Independent","610",98,"Gujranwala",2013
+"Sarfraz AhmadWarriach","Independent","503",98,"Gujranwala",2013
+"Malik AbdulHameed Awan","Independent","499",98,"Gujranwala",2013
+"Shazia MazharJaved","Independent","475",98,"Gujranwala",2013
+"ChaudharyMuhammad Iqbal Gujjar","AML","291",98,"Gujranwala",2013
+"Shahid MehmoodBhatti","Independent","225",98,"Gujranwala",2013
+"Sufi MuhammadAli Naqshbandi","PFP","167",98,"Gujranwala",2013
+"Jawad HassanManj","Independent","160",98,"Gujranwala",2013
+"Malik MuhammadImran Bashir Awan","Independent","150",98,"Gujranwala",2013
+"Arslan Ul MulkDhariwal","ML","133",98,"Gujranwala",2013
+"Meer MazharBashir","Independent","90",98,"Gujranwala",2013
+"Mian MuhammadArshad Sandhu","Independent","88",98,"Gujranwala",2013
+"Jamal HassanKhan Manj","Independent","56",98,"Gujranwala",2013
+"Khalid MehmoodChahal","Independent","48",98,"Gujranwala",2013
+"Chaudhary NajamHussain Cheema","Independent","11",98,"Gujranwala",2013
+"Azhar QayyumNahra","PML-N","89722",100,"Gujranwala",2013
+"Chaudhary BilalEjaz","Independent","70159",100,"Gujranwala",2013
+"ChaudharyTassadaq Masood Khan","PPP-P","6829",100,"Gujranwala",2013
+"Abid Javed Virk","PTI","6475",100,"Gujranwala",2013
+"Sardar RiazAhmad Khan","JI","2124",100,"Gujranwala",2013
+"Haji RanaMuhammad Riaz","Independent","1167",100,"Gujranwala",2013
+"Aytzaz Ijaz","Independent","1122",100,"Gujranwala",2013
+"Muhammad AsgharWarriach","Independent","798",100,"Gujranwala",2013
+"Muhammad PervezIqbal Virk","Independent","345",100,"Gujranwala",2013
+"Saood FatehMuhammad","Independent","220",100,"Gujranwala",2013
+"Syed Ali ImranSabzwari","Independent","201",100,"Gujranwala",2013
+"Muhammad ArshadArien alias Tank","MQM","195",100,"Gujranwala",2013
+"Rana ShabbirHaider Mubarak","Independent","131",100,"Gujranwala",2013
+"Muhammad NaseerAhmad","APML","70",100,"Gujranwala",2013
+"Saira AfzalTarar","PML-N","93013",102,"Hafizabad",2013
+"ChaudharyShaukat Ali Bhatti","Independent","67452",102,"Hafizabad",2013
+"Riaz AhmadTarar","PTI","5355",102,"Hafizabad",2013
+"Hajjan AllahRakhi","PPP-P","3506",102,"Hafizabad",2013
+"Habib UllahCheema","JI","1031",102,"Hafizabad",2013
+"Muhammad AkramMujahid","Independent","565",102,"Hafizabad",2013
+"ChaudharyMuhammad Younis Hinjra","PML-J","529",102,"Hafizabad",2013
+"Muhammad Atiqur Rehman Malik","Independent","505",102,"Hafizabad",2013
+"Nasir Ayub AwanAdvocate","MQM","399",102,"Hafizabad",2013
+"Chaudhary UsmanKhizar Mangat","Independent","282",102,"Hafizabad",2013
+"Nasrullah KhanHinjra","Independent","154",102,"Hafizabad",2013
+"ChaudharyLiaqat Abbas Bhatti","Independent","76044",103,"
+      
+      ",2013
+"Mian ShahidHussain Khan Bhatti","PML-N","75600",103,"
+      
+      ",2013
+"Akhter Hussain","PTI","4450",103,"
+      
+      ",2013
+"MuhammadRafique","Independent","1823",103,"
+      
+      ",2013
+"Imdad Ullah","Independent","1233",103,"
+      
+      ",2013
+"ChoudaryShoukat Ali Bhatti","Independent","673",103,"
+      
+      ",2013
+"Mushtaq AhmadMohal Advocate","PPP-P","658",103,"
+      
+      ",2013
+"Mian ZahidHussain Khan","Independent","652",103,"
+      
+      ",2013
+"Jahan KhanTarrar","MQM","565",103,"
+      
+      ",2013
+"Ch. SikandarNawaz Bhatti","Independent","395",103,"
+      
+      ",2013
+"Sadia LiaqatAbbas","Independent","337",103,"
+      
+      ",2013
+"Mubashar AbbasBhatti","Independent","173",103,"
+      
+      ",2013
+"NawabzadaMazhar Ali","PML-N","84979",104,"Gujrat",2013
+"Chaudhary WajahatHussain","PML-Q","81162",104,"Gujrat",2013
+"Chaudhry UsmanAli Tariq","PTI","19246",104,"Gujrat",2013
+"Muhammad AliSajad Chatha","PML-Q","3634",104,"Gujrat",2013
+"Hafiz ZabairAhmed","JI","3301",104,"Gujrat",2013
+"ChaudhryShafaat Hussain","Independent","2470",104,"Gujrat",2013
+"Tanveer AhmadGondal","Independent","1229",104,"Gujrat",2013
+"NawabzadaGhazanfar Ali Gul","Independent","779",104,"Gujrat",2013
+"Choudhary NazeerAhmad Gondal","Independent","763",104,"Gujrat",2013
+"Mian SajjadAhmad Sajid","PML-F","471",104,"Gujrat",2013
+"Khawar Shahzad","Independent","263",104,"Gujrat",2013
+"Ch Mazhar lqbalGujjar Barsa","Independent","201",104,"Gujrat",2013
+"Uzma Shoukat","Independent","185",104,"Gujrat",2013
+"Muhammad SharifNoori","APML","104",104,"Gujrat",2013
+"ChaudharyPervaiz Ellahi","PML-Q","78017",105,"Gujrat",2013
+"Ch MubashirHussain","PML-N","64652",105,"Gujrat",2013
+"Muhammad AfzalGondal","PTI","39931",105,"Gujrat",2013
+"Chaudhary AhmadMukhtar","PPP-P","10813",105,"Gujrat",2013
+"Ch. AnsarMalunood","JI","3693",105,"Gujrat",2013
+"Muhammad AjmalUmar","PST","404",105,"Gujrat",2013
+"Ch. MuhammadGul Nawaz","Independent","387",105,"Gujrat",2013
+"Tasadiq HussainBhatti","Independent","235",105,"Gujrat",2013
+"Syed GhulamAbbas","PML-F","220",105,"Gujrat",2013
+"Rasikh Ellahi","Independent","175",105,"Gujrat",2013
+"Muhammad NawazShaheen","Independent","136",105,"Gujrat",2013
+"Ch. MuhammadSafdar Jamna","MQM","123",105,"Gujrat",2013
+"Amash Butt","Independent","103",105,"Gujrat",2013
+"Umar MasoodFarooqi","Independent","65",105,"Gujrat",2013
+"Malik IftikharAhmad","Independent","60",105,"Gujrat",2013
+"Mirza MuhammadAzeem","Independent","59",105,"Gujrat",2013
+"Mehr lmtiazAhmad","Independent","58",105,"Gujrat",2013
+"Haji GhulamFarid","Independent","51",105,"Gujrat",2013
+"Majid Hamoyoun","Independent","47",105,"Gujrat",2013
+"Yousaf Masih","Independent","44",105,"Gujrat",2013
+"Mirza BilalBaig","APML","33",105,"Gujrat",2013
+"Amjad Farooq","Independent","19",105,"Gujrat",2013
+"Ch. MuhammadNaseer Abbas Sidhu","Independent","17",105,"Gujrat",2013
+"Khalid Pervaz","Independent","0",105,"Gujrat",2013
+"ChaudharyJaffar lqbal","PML-N","82546",106,"Gujrat",2013
+"Syed Noor UlHassan Shah","Independent","55943",106,"Gujrat",2013
+"Qamar ZamanKaira","PPP-P","35740",106,"Gujrat",2013
+"Mian MuhammadAfzal Hayat","PTI","31109",106,"Gujrat",2013
+"Chaudhary Nasarlqbal","Independent","4967",106,"Gujrat",2013
+"MuhammadRasheed Butt","Independent","938",106,"Gujrat",2013
+"Mian MuhammadMobeen Hayat","Independent","707",106,"Gujrat",2013
+"ChaudharyArshad Mehmood Advocate","Independent","625",106,"Gujrat",2013
+"Hafiz MunawarHussain","JUP-N","385",106,"Gujrat",2013
+"Ch KhalidHussain Bhatti Advocate","MQM","358",106,"Gujrat",2013
+"MuhammadShahbaz Faisal","Independent","249",106,"Gujrat",2013
+"Pir SyedMobashar Hussain Shah Shakreelvy","PST","245",106,"Gujrat",2013
+"Ch. AbidHussain Kissana","Independent","165",106,"Gujrat",2013
+"Nawazish AliSheikh","Independent","118",106,"Gujrat",2013
+"Ch. ZahidHussain Advocate","Independent","78",106,"Gujrat",2013
+"Colonelh(R)Mian Muhammad Akram","Independent","55",106,"Gujrat",2013
+"Chaudhary TahirMehmood","Independent","34",106,"Gujrat",2013
+"ChaudharyAbid Raza","PML-N","94083",107,"Gujrat IV",2013
+"ChaudharyMuhammad Ilyas","PTI","60962",107,"Gujrat IV",2013
+"Rehman Naseer","PML-Q","47207",107,"Gujrat IV",2013
+"ChaudharyMuhammad Asif","Independent","1014",107,"Gujrat IV",2013
+"ChaudharyMuhammad Ali urf Ch. Tanveer Ahmad","Independent","639",107,"Gujrat IV",2013
+"Raja Haq Nawazsarva","Independent","576",107,"Gujrat IV",2013
+"Azfar RiazChaudhary","Independent","549",107,"Gujrat IV",2013
+"MuhammadShahbaz","Independent","489",107,"Gujrat IV",2013
+"ChaudharyZahoor Mehdi","Independent","334",107,"Gujrat IV",2013
+"Naeem RazaKotla","Independent","257",107,"Gujrat IV",2013
+"Allama ShabbirAhmad Chishti Nazimi Off Saka","PST","119",107,"Gujrat IV",2013
+"Mirza SajidBashir","Independent","119",107,"Gujrat IV",2013
+"Irfan NaseerChaudhary","Independent","112",107,"Gujrat IV",2013
+"Chaudhary AsifRaza","Independent","98",107,"Gujrat IV",2013
+"Nadeem Ashiq","Independent","63",107,"Gujrat IV",2013
+"Malik AliAsgher Awan","Independent","45",107,"Gujrat IV",2013
+"Chaudhary IbrarAhmad","Independent","26",107,"Gujrat IV",2013
+"ChaudharyMuhammad Akram","Independent","18",107,"Gujrat IV",2013
+"Main SaghirAhmed Alvi","APYW","14",107,"Gujrat IV",2013
+"Nasir IqbalBosal","PML-N","133128",109,"Mandi Bahauddin",2013
+"Nazar MuhammadGondal","PPP-P","43574",109,"Mandi Bahauddin",2013
+"Muhammad NawazGondal","PTI","13597",109,"Mandi Bahauddin",2013
+"Ch ManzoorHussain Dhudra","Independent","4576",109,"Mandi Bahauddin",2013
+"Nasir AbbasTarar","Independent","3487",109,"Mandi Bahauddin",2013
+"Muhammad ArifMarhana","Independent","2509",109,"Mandi Bahauddin",2013
+"Choudhary QamarAbbas Bosal","Independent","1812",109,"Mandi Bahauddin",2013
+"Doctor AbdulRehman Ranjha","JI","1388",109,"Mandi Bahauddin",2013
+"Ghulam HussainBosal","Independent","995",109,"Mandi Bahauddin",2013
+"Ghulam Yaseen","Independent","437",109,"Mandi Bahauddin",2013
+"Major RetdZulifqar Ali Gondal","Independent","386",109,"Mandi Bahauddin",2013
+"Akhtar NawazFaisal Daryana","APML","317",109,"Mandi Bahauddin",2013
+"Ijaz AhmadWarriach","Independent","307",109,"Mandi Bahauddin",2013
+"ChaudharyBashir Ahmad Ranjha","Independent","91",109,"Mandi Bahauddin",2013
+"Muhammad IjazAhmad Chaudhary","Independent","73",109,"Mandi Bahauddin",2013
+"ChaudharyArmaghan Subhani","PML-N","136991",111,"Sialkot",2013
+"Dr. FirdousAshiq Awan","PPP-P","51230",111,"Sialkot",2013
+"Muhammad AjmalCheema","PTI","31099",111,"Sialkot",2013
+"Razia lqbal","MQM","603",111,"Sialkot",2013
+"Jehangir Qadri","PST","547",111,"Sialkot",2013
+"Muhammad Sarwar","MWM","544",111,"Sialkot",2013
+"FaizullahChaichee","PPP-SB","328",111,"Sialkot",2013
+"Syed KhalidMahmood Shah","PJP","308",111,"Sialkot",2013
+"Tauqeer AhmedBajwa","JUP-N","266",111,"Sialkot",2013
+"Syed All Raza","TIP","77",111,"Sialkot",2013
+"Zafar Iqbal","Indpendent","70",111,"Sialkot",2013
+"Mian MuhammadIslam","Indpendent","59",111,"Sialkot",2013
+"Rana ShamimAhmed Khan","PML-N","127437",112,"Sialkot",2013
+"Salman SaifCheema","PTI","36632",112,"Sialkot",2013
+"Chaudhary EjazAhmed Cheema","PPP-P","23194",112,"Sialkot",2013
+"Muhammad AwaisGhumman","JI","7228",112,"Sialkot",2013
+"Bilal HussainGondal","APML","3376",112,"Sialkot",2013
+"Yasir IqbalGhumman","Independent","2133",112,"Sialkot",2013
+"Ch Abdul QayyumBajwa Advocate","MQM","1250",112,"Sialkot",2013
+"Jhangir Qadri","PST","624",112,"Sialkot",2013
+"Usman JavedGhumman","Independent","504",112,"Sialkot",2013
+"Imran HussainKhan Ghumman Advocate","PJP","234",112,"Sialkot",2013
+"SyedIftikhar-ul-Hassan","PML-N","117716",113,"Sialkot",2013
+"Mirza AbdulQayyum","PTI","52341",113,"Sialkot",2013
+"Ali Asjad Malhi","PML-Q","20202",113,"Sialkot",2013
+"Khalid MehmoodButt","MDM","2790",113,"Sialkot",2013
+"Ameen Sajjad","Independent","1205",113,"Sialkot",2013
+"Ch TariqMaqsood Sahi","JUP-N","795",113,"Sialkot",2013
+"Chodhary RaufAhmad Bajwa","Independent","392",113,"Sialkot",2013
+"ChaudharyBashir Ahmad","Independent","223",113,"Sialkot",2013
+"Munawar AhmadGill","Independent","196",113,"Sialkot",2013
+"Tahira TabbasumChaudhary","Independent","137",113,"Sialkot",2013
+"Zahid Hamid","PML-N","131468",114,"Sialkot",2013
+"Ghulam Abbas","Independent","38232",114,"Sialkot",2013
+"Yasir Irfan ulIslam","Independent","18591",114,"Sialkot",2013
+"Syed AkhtarHussain Rizvi","PTI","18447",114,"Sialkot",2013
+"Muhammad Jameel","Independent","2677",114,"Sialkot",2013
+"Chaudhary FazalKarim","Independent","993",114,"Sialkot",2013
+"Mohsin Ikram","Independent","700",114,"Sialkot",2013
+"Rana MuhammadIrfan","SIC","529",114,"Sialkot",2013
+"Qamar AbbasChand","Independent","156",114,"Sialkot",2013
+"Mujam Ali","APML","154",114,"Sialkot",2013
+"Syed Ali Raza","TIP","125",114,"Sialkot",2013
+"SameeullahKlair","Independent","122",114,"Sialkot",2013
+"Mian TariqMehmood","MQM","101",114,"Sialkot",2013
+"Ahsan Abbas","Independent","65",114,"Sialkot",2013
+"Mian MuhammadRasheed","PML-N","71493",115,"Narowal",2013
+"Muhammad IrfanAbid","Independent","49134",115,"Narowal",2013
+"ChaudharyMuhammad Sarwar","Independent","13369",115,"Narowal",2013
+"Mansoor SarwarKhan","PTI","13369",115,"Narowal",2013
+"Arshad MehmoodSulehri Advocate","Independent","1568",115,"Narowal",2013
+"Farooq AkbarKahloon","PPP-P","1335",115,"Narowal",2013
+"Bisharat AliGujjar","PST","887",115,"Narowal",2013
+"Hafiz MuhammadTahir Aslam","Independent","663",115,"Narowal",2013
+"Khawaja MuhammadNadeem Butt","Independent","277",115,"Narowal",2013
+"Syed Ali AbbasShah","MQM","242",115,"Narowal",2013
+"Muhammad SaddiqueChaudhary","Independent","117",115,"Narowal",2013
+"Daniyal Aziz","PML-N","91409",116,"Narowal",2013
+"Muhammad TariqAnees","PPP-P","40291",116,"Narowal",2013
+"Wajiha Akram","PTI","9108",116,"Narowal",2013
+"Hafiz MuhamamdAkmal Sadiq urf Hafiz Bunna","Independent","2940",116,"Narowal",2013
+"Doctor MuhammadAbdullah","JI","876",116,"Narowal",2013
+"MuhamamdZeeshan Raza Ansari","Independent","691",116,"Narowal",2013
+"Chaudhary UmarSheraf Ahmad","Independent","664",116,"Narowal",2013
+"MuhammadZakariya","Independent","294",116,"Narowal",2013
+"Ahsan lqbal","PML-N","94744",117,"Narowal",2013
+"Abrar-ul-Haq","PTI","51838",117,"Narowal",2013
+"Anwar-ul-HaqChaudhary","PPP-P","3054",117,"Narowal",2013
+"Rao MuhammadAkbar Khan Meyo","TTP","1976",117,"Narowal",2013
+"Riffat JavidKahloon","Independent","899",117,"Narowal",2013
+"Anwar-ul-HaqButt","JI","826",117,"Narowal",2013
+"ChaudharyKhazir Ilyas Virak","Independent","779",117,"Narowal",2013
+"Rana Zafar AliKhan","MQM","204",117,"Narowal",2013
+"Abdul RahmanWahla","Independent","197",117,"Narowal",2013
+"Sheikh RohailAsghar","PML-N","119289",124,"Lahore",2013
+"Waleed Iqbal","PTI","42119",124,"Lahore",2013
+"Bushra AitzazAhsan","PPP-P","7022",124,"Lahore",2013
+"Allama Raza-e-MustafaNaqshbandi","PST","904",124,"Lahore",2013
+"ChaudharyGhulam Mustafa","ANP","668",124,"Lahore",2013
+"Mian AbdulWaheed","TTP","532",124,"Lahore",2013
+"Muhammad Asghar","Independent","504",124,"Lahore",2013
+"ChaudharyMuhammad Ilyaz Gujjar","APML","364",124,"Lahore",2013
+"Muhammad Nawaz","Independent","249",124,"Lahore",2013
+"Amir Siddiqi","Independent","108",124,"Lahore",2013
+"Qari HafizMuhammd Zawar Bahadar","JUP-N","98",124,"Lahore",2013
+"Muhammad NaveedAnjum","Independent","65",124,"Lahore",2013
+"Muhammad Tariq","Independent","59",124,"Lahore",2013
+"Imran AhmadKhan","PML-J","57",124,"Lahore",2013
+"Munir Ahmad","MQM","43",124,"Lahore",2013
+"Nadeem YaqoobMughal","Independent","40",124,"Lahore",2013
+"Mazhar Munir","Independent","34",124,"Lahore",2013
+"Muhammad NasirMalik","Independent","33",124,"Lahore",2013
+"Tariq Yasin ofGhazi Abad","PFP","28",124,"Lahore",2013
+"Shafqat Mehmood","PTI","96666",126,"Lahore",2013
+"Khawaja AhmadHassan","PML-N","89000",126,"Lahore",2013
+"Liaqat Baloach","JI","3226",126,"Lahore",2013
+"Syed ZahidBukharri","PPP-P","2733",126,"Lahore",2013
+"Qari MuhammadZawar Bahadur","Independent","562",126,"Lahore",2013
+"Mian GhulamShabbir Qadri","PST","482",126,"Lahore",2013
+"Syed ManzoorGillani","IP","428",126,"Lahore",2013
+"Begum TahiraAsif","MQM","422",126,"Lahore",2013
+"Sardar HurBukhari","Independent","321",126,"Lahore",2013
+"Malik MuhammadSaddique Khokhar","SIC","89",126,"Lahore",2013
+"Tariq Rasheed","Independent","60",126,"Lahore",2013
+"Doctor MuhammadNaeem","Independent","59",126,"Lahore",2013
+"Chaudhary ZararManzoor","Independent","42",126,"Lahore",2013
+"MakhdumMuhammad Javaid Hashmi","Independent","30",126,"Lahore",2013
+"Kamran AkhtarMughal","Independent","25",126,"Lahore",2013
+"Muhammad AsifKhan","Independent","14",126,"Lahore",2013
+"Nawab DoctorAmbar Shahzada","AJSP","8",126,"Lahore",2013
+"Malik AdilHaseeb","Independent","6",126,"Lahore",2013
+"Waheed AlamKhan","PML-N","102136",127,"Lahore",2013
+"NusrallahMughal","PTI","45927",127,"Lahore",2013
+"Sardar KhurramLatif Khan Khosa","PPP-P","6250",127,"Lahore",2013
+"Naila JosephDayal","CPM","2242",127,"Lahore",2013
+"Haji RanaSharafat Ali Qadri","SIC","972",127,"Lahore",2013
+"Qari Abdul Aziz","JUI-F","490",127,"Lahore",2013
+"Muhammad AbuBakar Watto","TTP","426",127,"Lahore",2013
+"Allama MuhammadHusnain Arif","MWM","318",127,"Lahore",2013
+"Daniel Masih","Independent","194",127,"Lahore",2013
+"Bisma Asif","Independent","188",127,"Lahore",2013
+"Muhammad TariqChaudhary","Independent","175",127,"Lahore",2013
+"Shahid JavaidAnwar Sindhu Advocate","Independent","167",127,"Lahore",2013
+"Doctor SohrabAslam Khan","Independent","161",127,"Lahore",2013
+"Abdul Saleem","Independent","144",127,"Lahore",2013
+"Adnan IftikharKilcha","Independent","84",127,"Lahore",2013
+"DoctorChaudhary Zahid Akram","Independent","76",127,"Lahore",2013
+"Ateeq Ali Nasir","Independent","59",127,"Lahore",2013
+"Malik ArshadAli Advocate","Independent","43",127,"Lahore",2013
+"Syed NaveedAnjum","Independent","41",127,"Lahore",2013
+"Doctor ZafarIqbal Mian","Independent","36",127,"Lahore",2013
+"MuhammadShakeel Tahir","PJP","34",127,"Lahore",2013
+"ChaudharyMuhammad Yasin Cheema","PMWP","27",127,"Lahore",2013
+"Mian MuhammadShehbaz Sharif","PML-N","93436",129,"Lahore",2013
+"Ch. MuhammadMansha Sindhu","Independent","36044",129,"Lahore",2013
+"Tariq Shabir","PPP-P","11955",129,"Lahore",2013
+"Muhammad Liaqat","JUI-F","1358",129,"Lahore",2013
+"Hakim Ali Khan","Independent","825",129,"Lahore",2013
+"Alama MuhammadAbid Jalali","Independent","513",129,"Lahore",2013
+"Abid Hamid KhanMeo","Independent","335",129,"Lahore",2013
+"Mian MuhammadSaeed Khokhar","Independent","335",129,"Lahore",2013
+"Murid Ali S.MBhutta Advocate","Independent","301",129,"Lahore",2013
+"Pervaiz Masih","PNDP","248",129,"Lahore",2013
+"ChaudharySaleem Ali","Independent","209",129,"Lahore",2013
+"Abdul Haq","Independent","188",129,"Lahore",2013
+"Nadeem IqbalPahat","Independent","154",129,"Lahore",2013
+"DoctorChaudhary Zahid Akram Nat","Independent","108",129,"Lahore",2013
+"Major ® ZulfqarKhalid","Independent","86",129,"Lahore",2013
+"ChoudharySalahud Din Mayo","Independent","83",129,"Lahore",2013
+"Muhammad NawazAwan","Independent","72",129,"Lahore",2013
+"Hafiz HaiderAli Meo","Independent","70",129,"Lahore",2013
+"Muhammad Nawaz","Independent","67",129,"Lahore",2013
+"Arshad Ali","Independent","61",129,"Lahore",2013
+"Chaudhary AllahDitta Heera","Independent","58",129,"Lahore",2013
+"Afzal AzeemPahat","Independent","56",129,"Lahore",2013
+"Muhammad IjazAwan","Independent","44",129,"Lahore",2013
+"Nasir Gill","MQM","37",129,"Lahore",2013
+"Sohail Shoukat Butt","PML-N","87548",130,"Lahore",2013
+"Samina KhalidGhurki","PPP-P","32655",130,"Lahore",2013
+"Talib HussainSindhu","PTI","21746",130,"Lahore",2013
+"ChaudharyManzoor Hussain","JI","8839",130,"Lahore",2013
+"Malik MuhammadAhmed Akmal Dogar","Independent","3238",130,"Lahore",2013
+"Rana MuhammadAshraf Advocate","IPM","568",130,"Lahore",2013
+"Ijaz Ahmed","Independent","326",130,"Lahore",2013
+"Rana SajidSarwar","Independent","159",130,"Lahore",2013
+"Malik MuhammadTufail","TIP","104",130,"Lahore",2013
+"Chaudhary AllahDitta Heera","Independent","94",130,"Lahore",2013
+"Abid Hamid KhanMayo","Independent","61",130,"Lahore",2013
+"ChaudharyShoukat Ali Chabil","PMWP","57",130,"Lahore",2013
+"MehmoodQalandar","PQP","54",130,"Lahore",2013
+"ChaudharySaleem Ali","Independent","50",130,"Lahore",2013
+"Asim AzizAdvocate","Independent","49",130,"Lahore",2013
+"Nazli IfatTabasum","MQM","44",130,"Lahore",2013
+"Rashid KarmatAli Butt","Independent","31",130,"Lahore",2013
+"Muhammad WaqarShafqat Butt","Independent","31",130,"Lahore",2013
+"Javaid AnwarAwan","Independent","28",130,"Lahore",2013
+"Malik UsmanHamza Awan","Independent","27",130,"Lahore",2013
+"ChaudharyMurtaza Akram Natt","Independent","24",130,"Lahore",2013
+"Chaudhary AmirZaheer Mayo","Independent","15",130,"Lahore",2013
+"Malik SikandarAwan","Independent","15",130,"Lahore",2013
+"Rana AfzaalHussain","PML-N","72910",131,"Sheikhupura",2013
+"Umar AftabDhillon","Independent","41502",131,"Sheikhupura",2013
+"Rahat AmanullahBhatti","PTI","21250",131,"Sheikhupura",2013
+"Mohtarma AminaZulfiqar Dhillon","PML-Q","11548",131,"Sheikhupura",2013
+"Ahmad AteeqAnwar","Independent","1133",131,"Sheikhupura",2013
+"Chaudhary ZahidImran Korotana","JI","1124",131,"Sheikhupura",2013
+"Rana IjazHussain","Independent","954",131,"Sheikhupura",2013
+"Hafiz MuhammadAfzaal","JUI-F","748",131,"Sheikhupura",2013
+"Syed TawakalHussaib Shah Bukhari","PST","392",131,"Sheikhupura",2013
+"Aftab IqbalAhmad","Independent","285",131,"Sheikhupura",2013
+"Mazhar Ali Alvi","MQM","254",131,"Sheikhupura",2013
+"Saeed Akhtar","Independent","118",131,"Sheikhupura",2013
+"Rana TanveerHussain","PML-N","93119",132,"Old Sheikhupura",2013
+"Syed GhayoorAbbas Bukhari","PPP-P","33439",132,"Old Sheikhupura",2013
+"Ayaz SarfrazMalik","PTI","16453",132,"Old Sheikhupura",2013
+"Rana Anwar ulHaq","Independent","10250",132,"Old Sheikhupura",2013
+"Riaz AhmadBhulla Advocate","JI","3572",132,"Old Sheikhupura",2013
+"Rana AfzalHussain","Independent","1231",132,"Old Sheikhupura",2013
+"Sahhabzada MianJalil Sharaqpuri","Independent","444",132,"Old Sheikhupura",2013
+"Syed MuhammadAbu Talib Bukhari","Independent","424",132,"Old Sheikhupura",2013
+"Mian MuhammadJaved","Independent","376",132,"Old Sheikhupura",2013
+"Ali AsgharManda","Independent","199",132,"Old Sheikhupura",2013
+"Syed TawakalHussain Shah Bokhari","Independent","146",132,"Old Sheikhupura",2013
+"Muhammad NaseefAwan","JUI-F","123",132,"Old Sheikhupura",2013
+"Rana SajjadAhmad","Independent","67",132,"Old Sheikhupura",2013
+"Kabeer AhmedGoraya","Independent","65",132,"Old Sheikhupura",2013
+"Sir MaqsoodAhmad","Independent","55",132,"Old Sheikhupura",2013
+"Malik MuhammadAsif Awan","MQM","52",132,"Old Sheikhupura",2013
+"Malik Babar Ali","Independent","43",132,"Old Sheikhupura",2013
+"Nasir MahmoodChaudhry","QWP","40",132,"Old Sheikhupura",2013
+"Hafiz Sajidlqbal","Independent","27",132,"Old Sheikhupura",2013
+"Muhammad FaryadHussain","Independent","27",132,"Old Sheikhupura",2013
+"Mukhdoom PirSyed Sajjad Hussain Shah Mosvi","Independent","17",132,"Old Sheikhupura",2013
+"Arshad MahmoodMunda","Independent","14",132,"Old Sheikhupura",2013
+"Malik Muhammadlqbal Jora","APML","8",132,"Old Sheikhupura",2013
+"Mian JavidLatif","PML-N","68894",133,"Old Sheikhupura",2013
+"Muhammad SaeedVirk","Indpenendet","31512",133,"Old Sheikhupura",2013
+"Abu Bakar Virk","PTI","24842",133,"Old Sheikhupura",2013
+"Altaf HussainVirk","PPP-P","4796",133,"Old Sheikhupura",2013
+"Khalid MahmoodVirk","JI","4621",133,"Old Sheikhupura",2013
+"Mian MuhammadMunawar Latif","Indpenendet","948",133,"Old Sheikhupura",2013
+"Sardar AllAhmad Dogar Advocate","Indpenendet","902",133,"Old Sheikhupura",2013
+"ChaudharyTanveer Ahmad Kamboh","TTP","686",133,"Old Sheikhupura",2013
+"Malik ImranRehmat Dogar","Indpenendet","514",133,"Old Sheikhupura",2013
+"Muhammad Arifkhan Sandhila","Indpenendet","451",133,"Old Sheikhupura",2013
+"Mian ljaz Latif","Indpenendet","434",133,"Old Sheikhupura",2013
+"Syed RazaHussain Babar Rizvi","Indpenendet","284",133,"Old Sheikhupura",2013
+"Muhammad FazalBilal","Indpenendet","257",133,"Old Sheikhupura",2013
+"Sajjad AhmadKhan","Indpenendet","231",133,"Old Sheikhupura",2013
+"Muhammad Ilyas","Indpenendet","172",133,"Old Sheikhupura",2013
+"Muhammad HanifUllah","IP","141",133,"Old Sheikhupura",2013
+"Madam NaziaLatif","Indpenendet","104",133,"Old Sheikhupura",2013
+"Yawar AltafVirk","Indpenendet","95",133,"Old Sheikhupura",2013
+"Usman Virk","Indpenendet","81",133,"Old Sheikhupura",2013
+"Haji MuhammadNawaz","Indpenendet","32",133,"Old Sheikhupura",2013
+"Shah Nawaz Sura","Indpenendet","32",133,"Old Sheikhupura",2013
+"Sardar MuhammadIrfan Dogar","PML-N","44384",134,"Sheikhupura Cum Nankana Sahib",2013
+"Khan Sher AkbarKhan","Independent","41093",134,"Sheikhupura Cum Nankana Sahib",2013
+"KhurramMunawwar Munj","PML-Q","39351",134,"Sheikhupura Cum Nankana Sahib",2013
+"Shafqat Ali","PTI","14109",134,"Sheikhupura Cum Nankana Sahib",2013
+"MunawwarHussain Munj","Independent","1404",134,"Sheikhupura Cum Nankana Sahib",2013
+"Rai Azeem SaeedKhan","Independent","1329",134,"Sheikhupura Cum Nankana Sahib",2013
+"Malik MushtaqAhmad","Independent","1139",134,"Sheikhupura Cum Nankana Sahib",2013
+"Mian Asadullah","JI","1087",134,"Sheikhupura Cum Nankana Sahib",2013
+"Sardar MuhammadAfzal Dogar","Independent","711",134,"Sheikhupura Cum Nankana Sahib",2013
+"Sohaib Mushtaq","Independent","545",134,"Sheikhupura Cum Nankana Sahib",2013
+"Ch MuzammilHussain","Independent","441",134,"Sheikhupura Cum Nankana Sahib",2013
+"Fakhar Rasheed","Independent","332",134,"Sheikhupura Cum Nankana Sahib",2013
+"Rai Ejaz AhmadKhan","Independent","319",134,"Sheikhupura Cum Nankana Sahib",2013
+"Syed ImranAbdullah","MQM","117",134,"Sheikhupura Cum Nankana Sahib",2013
+"Meharban SainRana Abdul Ghafoor Mian","PMP","24",134,"Sheikhupura Cum Nankana Sahib",2013
+"ChaudharyIftikhar Ahmad Kasana","Independent","0",134,"Sheikhupura Cum Nankana Sahib",2013
+"Imran NaseebGujjar","Independent","0",134,"Sheikhupura Cum Nankana Sahib",2013
+"Qamar NaseebGujjar","Independent","0",134,"Sheikhupura Cum Nankana Sahib",2013
+"Muhammad BarjesTahir","PML-N","82038",135,"Nankana Sahib",2013
+"ChaudharyMuhammad Arshad Sahi","PTI","40537",135,"Nankana Sahib",2013
+"Rai Ejaz AhmadKhan","Independent","15113",135,"Nankana Sahib",2013
+"Mian ShamimHaider","PPP-P","9780",135,"Nankana Sahib",2013
+"Sarfraz AhmadKhan","JI","4645",135,"Nankana Sahib",2013
+"ChaudharySaleem Iqbal Bagga","Independent","1676",135,"Nankana Sahib",2013
+"Ch. GhulamAbbas Cheema","TTP","1605",135,"Nankana Sahib",2013
+"Sardar EjazAbbas Punon","Independent","1469",135,"Nankana Sahib",2013
+"Muhammad NaeemKhan Lodhi","Independent","1067",135,"Nankana Sahib",2013
+"Doctor AltafHussain Rathor","Independent","655",135,"Nankana Sahib",2013
+"Muhammad SaleemKhan Munj","Independent","603",135,"Nankana Sahib",2013
+"MuhammadShahbaz Mukhtar Bhatti","Independent","603",135,"Nankana Sahib",2013
+"Nazar Hussain","Independent","458",135,"Nankana Sahib",2013
+"Maqsood AhmadAwan Advocate","Independent","351",135,"Nankana Sahib",2013
+"ProfessorHakeem Mian Muhammad Sadique","MDM","256",135,"Nankana Sahib",2013
+"Rai Azeem SaeedKhan","Independent","159",135,"Nankana Sahib",2013
+"Muhammad MalikBhatti","MQM","154",135,"Nankana Sahib",2013
+"Mian ZiaullahZia","Independent","131",135,"Nankana Sahib",2013
+"Sardar AsifDogar","Independent","98",135,"Nankana Sahib",2013
+"Ume Kalsoonalias Bismillah","Independent","60",135,"Nankana Sahib",2013
+"Malik MuhammadAzam","Independent","50",135,"Nankana Sahib",2013
+"Nasir Ali","Independent","48",135,"Nankana Sahib",2013
+"Naveed HussainWahla","Independent","42",135,"Nankana Sahib",2013
+"Ch MuhammadHussain","Independent","29",135,"Nankana Sahib",2013
+"Ahmad Raza","QWP","27",135,"Nankana Sahib",2013
+"Mian MuhammadFarooq Nasir Advocate","Independent","19",135,"Nankana Sahib",2013
+"Wajid MustafaBajwa","Independent","13",135,"Nankana Sahib",2013
+"Chudhary BillalAhmad Vtrk","PML-N","73761",136,"Nankana Cum  Sheikhupura",2013
+"Shahid ManzoorGill","PML-Q","36158",136,"Nankana Cum  Sheikhupura",2013
+"ChudharyMuhammad Yaqoob","PTI","33387",136,"Nankana Cum  Sheikhupura",2013
+"Abid HussainChattha","Independent","15591",136,"Nankana Cum  Sheikhupura",2013
+"Umar Farooq","Independent","2859",136,"Nankana Cum  Sheikhupura",2013
+"Sheikh AbdulRauf Monga Advocate","Independent","1243",136,"Nankana Cum  Sheikhupura",2013
+"Rana MuhammadAfnan Khan","Independent","1059",136,"Nankana Cum  Sheikhupura",2013
+"Rana Ali AmeerJoya","Independent","1048",136,"Nankana Cum  Sheikhupura",2013
+"ChaudharyShehar Yar Virk","Independent","1026",136,"Nankana Cum  Sheikhupura",2013
+"Nazia Lateef","Independent","668",136,"Nankana Cum  Sheikhupura",2013
+"Muhammad ArifKhan Sandhela","Independent","560",136,"Nankana Cum  Sheikhupura",2013
+"Sardar HamidMehmood Dogar","MQM","374",136,"Nankana Cum  Sheikhupura",2013
+"Syed IbrarHussain Shah","Independent","271",136,"Nankana Cum  Sheikhupura",2013
+"Rana BashirAhmad","Independent","156",136,"Nankana Cum  Sheikhupura",2013
+"Slaman Hanif","PML-N","75409",138,"Kasur",2013
+"Amjad AliTufail","Independent","28057",138,"Kasur",2013
+"Sardar Tufail Ahmed Khan","Independent","28057",138,"Kasur",2013
+"Sadia Bano w/o Mazhar Hayat","Independent","26225",138,"Kasur",2013
+"Nasira Mayo","PPP-P","20187",138,"Kasur",2013
+"Hassan Ali Khan","PTI","13076",138,"Kasur",2013
+"Choudhary HakimAli","Independent","7462",138,"Kasur",2013
+"Abul khairMuhammad Zubair","JUP-N","4933",138,"Kasur",2013
+"Muhammad Rafique Kasuri","JUI-F","1620",138,"Kasur",2013
+"Col (R) Aizaz Haider","KMP","966",138,"Kasur",2013
+"Ch. MuhammadSaleem Nasim Sandhu","Independent","732",138,"Kasur",2013
+"Waqar Mustafa","Independent","669",138,"Kasur",2013
+"Fida Hussain Matta Advocate","Independent","191",138,"Kasur",2013
+"Muhammad Asif Yaqub","Independent","136",138,"Kasur",2013
+"Nasir Iqbal","Independent","101",138,"Kasur",2013
+"Muhammad Imran Hanif","Independent","74",138,"Kasur",2013
+"Mian Muhammad Afzal","Independent","0",138,"Kasur",2013
+"Waseem AkhterSheikh","PML-N","102703",139,"Kasur",2013
+"ChaudharyManzoor Ahmed","PPP-P","28763",139,"Kasur",2013
+"Sardar MuhammadHussain Dogar","PTI","21628",139,"Kasur",2013
+"Naveed HashimRizvi","Independent","15004",139,"Kasur",2013
+"Muhammad JavaidKasuri","JI","5400",139,"Kasur",2013
+"Umar Hayat","Independent","4541",139,"Kasur",2013
+"Saad UllahHameed Dogar","Independent","1550",139,"Kasur",2013
+"ChaudharyGhulam Muhammad","MDM","853",139,"Kasur",2013
+"Munir Ahmad","Independent","640",139,"Kasur",2013
+"Uzma Waseem","Independent","556",139,"Kasur",2013
+"Sardar RiazAhmad Dogar","Independent","481",139,"Kasur",2013
+"Khizer HayatKhan","TTP","458",139,"Kasur",2013
+"Safdar Ali","MQM","215",139,"Kasur",2013
+"ChoudharyGhulam Mustafa Tabassum","Independent","164",139,"Kasur",2013
+"Shabbir AhmadKhan","Independent","129",139,"Kasur",2013
+"Munir AhmedZafar","IIP","112",139,"Kasur",2013
+"Rana Habib urRehman","Independent","66",139,"Kasur",2013
+"Malik RashidAhmad Khan","PML-N","68460",140,"Kasur",2013
+"Azeem ud DinZahid Lakhvi","PML-Q","49435",140,"Kasur",2013
+"Mian KhurshidMehmood Kasuri","PTI","30414",140,"Kasur",2013
+"Sardar AsifAhmad Ali","Independent","19268",140,"Kasur",2013
+"BakhtiarMehmood Kasuri","Independent","3426",140,"Kasur",2013
+"Chaudhay AmjadIqbal Khan","Independent","3269",140,"Kasur",2013
+"Ibtsaam IllahiZahir","QTP","2012",140,"Kasur",2013
+"Mian MukhtarAhmed","JI","1861",140,"Kasur",2013
+"Zaeem ud DeenAbid","Independent","743",140,"Kasur",2013
+"Muhammad AliJaved","Independent","659",140,"Kasur",2013
+"Rai MuhammadYounas Khan Kharal","MQM","463",140,"Kasur",2013
+"Rai IshtiaqAhmad","Independent","389",140,"Kasur",2013
+"MujahidMuhammad Yaqoob","Independent","145",140,"Kasur",2013
+"Malak MazharRasheed","Independent","137",140,"Kasur",2013
+"Sardar MuhammadSarwar Dogar","Independent","105",140,"Kasur",2013
+"Rana MuhammadAli","APML","88",140,"Kasur",2013
+"Muhammad AyubKhan","Independent","64",140,"Kasur",2013
+"Sardar MushtaqAhmad","Independent","7",140,"Kasur",2013
+"Rana Muhammad Ishaq Khan","PML-N","96368",141,"Kasur",2013
+"Sardar Muhammad Asif Nakai","Independent","33712",141,"Kasur",2013
+"Akeel Aslam","PTI","11935",141,"Kasur",2013
+"Syed Tariq Raza","PPP-P","4502",141,"Kasur",2013
+"Syed Raza Abbas","Independent","1573",141,"Kasur",2013
+"Chaudhary Nasir Ali Malanga","Independent","1371",141,"Kasur",2013
+"Nazir Ahmad","JI","1081",141,"Kasur",2013
+"Nazir Ahmed","Independent","1081",141,"Kasur",2013
+"Rana Sakindar Hayat","Independent","760",141,"Kasur",2013
+"Rana Liaqat Ali Khan","Independent","736",141,"Kasur",2013
+"Sardar Majid Akhtar Nakai","Independent","572",141,"Kasur",2013
+"Sardar Muhammad Atif Nakai","Independent","307",141,"Kasur",2013
+"Hafiz Shahzad Advocate","JUI-F","259",141,"Kasur",2013
+"Haji Jahangir Ali Majra","Independent","199",141,"Kasur",2013
+"Arshad Ali","APML","93",141,"Kasur",2013
+"Shahnaz Arshad","Independent","93",141,"Kasur",2013
+"Sibghatuallah Chaodhary","Independent","86",141,"Kasur",2013
