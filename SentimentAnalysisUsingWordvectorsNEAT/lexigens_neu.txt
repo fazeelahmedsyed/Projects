@@ -1,0 +1,750 @@
+****** Running generation 0 ****** 
+
+Population's average fitness: 7883.00000 stdev: 0.00000
+Best fitness: 7883.00000 - size: (101, 0) - species 1 - id 1
+Average adjusted fitness: 0.000
+Mean genetic distance 2.151, standard deviation 0.508
+Population of 200 members in 1 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    0   200   7883.0    0.000     0
+Total extinctions: 0
+Generation time: 91.183 sec
+
+ ****** Running generation 1 ****** 
+
+Population's average fitness: 7883.00000 stdev: 0.00000
+Best fitness: 7883.00000 - size: (101, 0) - species 1 - id 1
+Average adjusted fitness: 0.000
+Mean genetic distance 2.644, standard deviation 0.743
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    1   196   7883.0    0.000     1
+     2    0     4       --       --     0
+Total extinctions: 0
+Generation time: 90.264 sec (90.724 average)
+
+ ****** Running generation 2 ****** 
+
+Population's average fitness: 7880.62940 stdev: 40.62403
+Best fitness: 7976.69060 - size: (100, 2) - species 1 - id 537
+Average adjusted fitness: 0.857
+Mean genetic distance 2.589, standard deviation 0.868
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    2   140   7976.7    0.855     0
+     2    1    60   7883.0    0.858     0
+Total extinctions: 0
+Generation time: 90.217 sec (90.555 average)
+
+ ****** Running generation 3 ****** 
+
+Population's average fitness: 7852.71035 stdev: 431.83000
+Best fitness: 7976.69060 - size: (100, 2) - species 1 - id 537
+Average adjusted fitness: 0.981
+Mean genetic distance 2.651, standard deviation 0.818
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    3   118   7976.7    0.978     1
+     2    2    80   7883.0    0.985     1
+     3    0     2       --       --     0
+Total extinctions: 0
+Generation time: 90.737 sec (90.600 average)
+Saving checkpoint to neat-checkpoint-3
+
+ ****** Running generation 4 ****** 
+
+Population's average fitness: 7705.63586 stdev: 998.19048
+Best fitness: 8084.36453 - size: (101, 3) - species 1 - id 920
+Average adjusted fitness: 0.952
+Mean genetic distance 2.895, standard deviation 0.748
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    4    87   8084.4    0.921     0
+     2    3    74   7883.0    0.968     0
+     3    1    39   7883.0    0.968     0
+Total extinctions: 0
+Generation time: 90.811 sec (90.643 average)
+
+ ****** Running generation 5 ****** 
+
+Population's average fitness: 7772.12567 stdev: 812.07999
+Best fitness: 8203.69035 - size: (99, 2) - species 1 - id 1169
+Average adjusted fitness: 0.937
+Mean genetic distance 2.856, standard deviation 0.797
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    5   117   8203.7    0.911     0
+     2    4    71   7883.3    0.950     0
+     3    2    12   7883.0    0.950     1
+Total extinctions: 0
+Generation time: 91.304 sec (90.753 average)
+
+ ****** Running generation 6 ****** 
+
+Population's average fitness: 7687.19969 stdev: 1045.94494
+Best fitness: 8203.69035 - size: (99, 2) - species 1 - id 1169
+Average adjusted fitness: 0.928
+Mean genetic distance 2.820, standard deviation 0.854
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    6   112   8203.7    0.922     1
+     2    5    68   8169.4    0.911     0
+     3    3    20   7883.0    0.950     2
+Total extinctions: 0
+Generation time: 91.992 sec (90.930 average)
+
+ ****** Running generation 7 ****** 
+
+Population's average fitness: 7750.74083 stdev: 850.03493
+Best fitness: 8203.69035 - size: (99, 2) - species 1 - id 1169
+Average adjusted fitness: 0.936
+Mean genetic distance 2.793, standard deviation 0.887
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    7    98   8203.7    0.919     2
+     2    6    67   8169.4    0.939     1
+     3    4    35   7883.0    0.950     3
+Total extinctions: 0
+Generation time: 91.639 sec (91.018 average)
+Saving checkpoint to neat-checkpoint-7
+
+ ****** Running generation 8 ****** 
+
+Population's average fitness: 7400.98434 stdev: 1567.71395
+Best fitness: 8203.69035 - size: (99, 2) - species 1 - id 1169
+Average adjusted fitness: 0.886
+Mean genetic distance 2.772, standard deviation 0.883
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    8   103   8203.7    0.882     3
+     2    7    65   8199.3    0.826     0
+     3    5    32   7883.0    0.950     4
+Total extinctions: 0
+Generation time: 91.520 sec (91.074 average)
+
+ ****** Running generation 9 ****** 
+
+Population's average fitness: 7483.32250 stdev: 1340.17186
+Best fitness: 8203.69035 - size: (99, 2) - species 1 - id 1169
+
+Species 3 with 32 members is stagnated: removing it
+Average adjusted fitness: 0.868
+Mean genetic distance 2.644, standard deviation 0.825
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1    9   111   8203.7    0.880     4
+     2    8    89   8200.4    0.856     0
+Total extinctions: 0
+Generation time: 94.497 sec (91.416 average)
+
+ ****** Running generation 10 ****** 
+
+Population's average fitness: 7310.10160 stdev: 1609.94768
+Best fitness: 8203.96068 - size: (100, 4) - species 1 - id 2111
+Average adjusted fitness: 0.862
+Mean genetic distance 2.472, standard deviation 0.835
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   10   105   8204.0    0.852     0
+     2    9    95   8200.4    0.873     1
+Total extinctions: 0
+Generation time: 99.550 sec (92.253 average)
+
+ ****** Running generation 11 ****** 
+
+Population's average fitness: 7350.24809 stdev: 1491.05770
+Best fitness: 8204.21261 - size: (100, 4) - species 1 - id 2269
+Average adjusted fitness: 0.868
+Mean genetic distance 2.605, standard deviation 0.841
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   11   102   8204.2    0.852     0
+     2   10    98   8202.9    0.884     0
+Total extinctions: 0
+Generation time: 92.418 sec (92.468 average)
+Saving checkpoint to neat-checkpoint-11
+
+ ****** Running generation 12 ****** 
+
+Population's average fitness: 7310.62689 stdev: 1639.52336
+Best fitness: 8204.21261 - size: (100, 4) - species 1 - id 2269
+Average adjusted fitness: 0.861
+Mean genetic distance 2.733, standard deviation 0.813
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   12   101   8204.2    0.857     1
+     2   11    99   8202.9    0.866     1
+Total extinctions: 0
+Generation time: 92.596 sec (92.706 average)
+
+ ****** Running generation 13 ****** 
+
+Population's average fitness: 7462.77753 stdev: 1401.57266
+Best fitness: 8204.84859 - size: (99, 5) - species 1 - id 2707
+Average adjusted fitness: 0.885
+Mean genetic distance 2.790, standard deviation 0.842
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   13    99   8204.8    0.854     0
+     2   12   101   8203.1    0.916     0
+Total extinctions: 0
+Generation time: 97.066 sec (93.339 average)
+
+ ****** Running generation 14 ****** 
+
+Population's average fitness: 7338.27580 stdev: 1555.35587
+Best fitness: 8204.84859 - size: (99, 5) - species 1 - id 2707
+Average adjusted fitness: 0.865
+Mean genetic distance 2.797, standard deviation 0.886
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   14   100   8204.8    0.870     1
+     2   13   100   8203.1    0.861     1
+Total extinctions: 0
+Generation time: 93.051 sec (93.563 average)
+
+ ****** Running generation 15 ****** 
+
+Population's average fitness: 7372.81923 stdev: 1490.61685
+Best fitness: 8204.84859 - size: (99, 5) - species 1 - id 2707
+Average adjusted fitness: 0.871
+Mean genetic distance 2.770, standard deviation 0.852
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   15    99   8204.8    0.867     2
+     2   14   101   8203.5    0.874     0
+Total extinctions: 0
+Generation time: 94.374 sec (93.870 average)
+Saving checkpoint to neat-checkpoint-15
+
+ ****** Running generation 16 ****** 
+
+Population's average fitness: 7259.11445 stdev: 1661.25513
+Best fitness: 8204.84859 - size: (99, 5) - species 1 - id 2707
+Average adjusted fitness: 0.853
+Mean genetic distance 2.810, standard deviation 0.831
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   16   100   8204.8    0.870     3
+     2   15   100   8203.5    0.836     1
+Total extinctions: 0
+Generation time: 95.342 sec (94.205 average)
+
+ ****** Running generation 17 ****** 
+
+Population's average fitness: 7519.58090 stdev: 1385.30049
+Best fitness: 8204.84859 - size: (99, 5) - species 1 - id 2707
+Average adjusted fitness: 0.894
+Mean genetic distance 2.903, standard deviation 0.777
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   17    99   8204.8    0.889     4
+     2   16   101   8203.5    0.899     2
+Total extinctions: 0
+Generation time: 97.311 sec (94.772 average)
+
+ ****** Running generation 18 ****** 
+
+Population's average fitness: 7217.63220 stdev: 1668.26247
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.846
+Mean genetic distance 2.932, standard deviation 0.726
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   18   100   8205.0    0.854     0
+     2   17   100   8203.5    0.838     3
+Total extinctions: 0
+Generation time: 93.746 sec (94.995 average)
+
+ ****** Running generation 19 ****** 
+
+Population's average fitness: 7222.29565 stdev: 1660.87696
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.847
+Mean genetic distance 2.839, standard deviation 0.687
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   19   101   8205.0    0.854     1
+     2   18    99   8204.9    0.841     0
+Total extinctions: 0
+Generation time: 95.678 sec (95.113 average)
+Saving checkpoint to neat-checkpoint-19
+
+ ****** Running generation 20 ****** 
+
+Population's average fitness: 7185.46303 stdev: 1704.41743
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.842
+Mean genetic distance 2.802, standard deviation 0.700
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   20   100   8205.0    0.843     2
+     2   19   100   8204.9    0.840     1
+Total extinctions: 0
+Generation time: 95.082 sec (94.666 average)
+
+ ****** Running generation 21 ****** 
+
+Population's average fitness: 7520.25388 stdev: 1449.49136
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.894
+Mean genetic distance 3.046, standard deviation 0.644
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   21   101   8205.0    0.900     3
+     2   20    87   8204.9    0.888     2
+     4    0    12       --       --     0
+Total extinctions: 0
+Generation time: 95.978 sec (95.022 average)
+
+ ****** Running generation 22 ****** 
+
+Population's average fitness: 7073.88941 stdev: 1869.51596
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.845
+Mean genetic distance 2.850, standard deviation 0.782
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   22    83   8205.0    0.814     4
+     2   21    83   8204.9    0.827     3
+     4    1    34   8203.9    0.894     0
+Total extinctions: 0
+Generation time: 98.109 sec (95.574 average)
+
+ ****** Running generation 23 ****** 
+
+Population's average fitness: 7205.42374 stdev: 1685.97584
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.843
+Mean genetic distance 2.705, standard deviation 0.938
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   23    75   8205.0    0.846     5
+     2   22    46   8204.9    0.847     4
+     4    2    79   8204.7    0.837     0
+Total extinctions: 0
+Generation time: 97.347 sec (95.602 average)
+Saving checkpoint to neat-checkpoint-23
+
+ ****** Running generation 24 ****** 
+
+Population's average fitness: 7156.36874 stdev: 1801.83577
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.846
+Mean genetic distance 2.760, standard deviation 0.931
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   24    70   8205.0    0.833     6
+     2   23    55   8204.9    0.897     5
+     4    3    74   8204.7    0.806     1
+Total extinctions: 0
+Generation time: 95.571 sec (95.854 average)
+
+ ****** Running generation 25 ****** 
+
+Population's average fitness: 7502.42899 stdev: 1348.27250
+Best fitness: 8204.95050 - size: (99, 7) - species 1 - id 3700
+Average adjusted fitness: 0.889
+Mean genetic distance 2.814, standard deviation 0.983
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   25    68   8205.0    0.883     7
+     2   24    63   8204.9    0.871     6
+     4    4    68   8204.7    0.912     2
+Total extinctions: 0
+Generation time: 97.676 sec (96.184 average)
+
+ ****** Running generation 26 ****** 
+
+Population's average fitness: 7333.00848 stdev: 1573.63670
+Best fitness: 8204.97515 - size: (98, 8) - species 1 - id 5277
+Average adjusted fitness: 0.863
+Mean genetic distance 2.870, standard deviation 0.956
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   26    67   8205.0    0.872     0
+     2   25    64   8204.9    0.818     7
+     4    5    69   8204.7    0.897     3
+Total extinctions: 0
+Generation time: 96.113 sec (96.261 average)
+
+ ****** Running generation 27 ****** 
+
+Population's average fitness: 7477.66951 stdev: 1451.72629
+Best fitness: 8205.05697 - size: (98, 9) - species 1 - id 5416
+Average adjusted fitness: 0.887
+Mean genetic distance 2.898, standard deviation 0.911
+Population of 201 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   27    66   8205.1    0.853     0
+     2   26    65   8205.0    0.884     0
+     4    6    70   8204.7    0.923     4
+Total extinctions: 0
+Generation time: 94.547 sec (95.985 average)
+Saving checkpoint to neat-checkpoint-27
+
+ ****** Running generation 28 ****** 
+
+Population's average fitness: 7414.13524 stdev: 1471.16378
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.877
+Mean genetic distance 2.884, standard deviation 0.892
+Population of 201 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   28    68   8205.2    0.919     0
+     2   27    64   8205.0    0.821     1
+     4    7    69   8204.8    0.890     0
+Total extinctions: 0
+Generation time: 97.185 sec (96.329 average)
+
+ ****** Running generation 29 ****** 
+
+Population's average fitness: 7160.86551 stdev: 1748.54329
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.837
+Mean genetic distance 2.851, standard deviation 0.896
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   29    67   8205.2    0.830     1
+     2   28    65   8205.0    0.835     2
+     4    8    68   8204.8    0.845     1
+Total extinctions: 0
+Generation time: 96.360 sec (96.397 average)
+
+ ****** Running generation 30 ****** 
+
+Population's average fitness: 7377.06200 stdev: 1498.72525
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.872
+Mean genetic distance 2.879, standard deviation 0.863
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   30    66   8205.2    0.849     2
+     2   29    66   8205.0    0.882     3
+     4    9    67   8204.8    0.884     2
+Total extinctions: 0
+Generation time: 98.369 sec (96.725 average)
+
+ ****** Running generation 31 ****** 
+
+Population's average fitness: 7534.42648 stdev: 1262.13504
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.893
+Mean genetic distance 2.868, standard deviation 0.882
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   31    68   8205.2    0.928     3
+     2   30    65   8205.0    0.883     4
+     4   10    66   8204.8    0.868     3
+Total extinctions: 0
+Generation time: 95.295 sec (96.657 average)
+Saving checkpoint to neat-checkpoint-31
+
+ ****** Running generation 32 ****** 
+
+Population's average fitness: 7131.35377 stdev: 1750.06883
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.834
+Mean genetic distance 2.897, standard deviation 0.870
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   32    67   8205.2    0.825     4
+     2   31    66   8205.0    0.856     5
+     4   11    66   8204.8    0.819     0
+Total extinctions: 0
+Generation time: 95.320 sec (96.378 average)
+
+ ****** Running generation 33 ****** 
+
+Population's average fitness: 7516.92069 stdev: 1279.09373
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.892
+Mean genetic distance 2.890, standard deviation 0.846
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   33    68   8205.2    0.920     5
+     2   32    68   8205.0    0.911     6
+     4   12    64   8204.8    0.846     1
+Total extinctions: 0
+Generation time: 95.682 sec (96.212 average)
+
+ ****** Running generation 34 ****** 
+
+Population's average fitness: 7427.53761 stdev: 1438.75151
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.879
+Mean genetic distance 2.891, standard deviation 0.824
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   34    69   8205.2    0.920     6
+     2   33    68   8205.0    0.855     7
+     4   13    63   8204.9    0.862     0
+Total extinctions: 0
+Generation time: 98.958 sec (96.550 average)
+
+ ****** Running generation 35 ****** 
+
+Population's average fitness: 7639.53467 stdev: 1174.14072
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.912
+Mean genetic distance 2.866, standard deviation 0.859
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   35    68   8205.2    0.933     7
+     2   34    68   8205.0    0.884     8
+     4   14    63   8204.9    0.920     1
+Total extinctions: 0
+Generation time: 99.968 sec (96.780 average)
+Saving checkpoint to neat-checkpoint-35
+
+ ****** Running generation 36 ****** 
+
+Population's average fitness: 7466.54031 stdev: 1480.01350
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.885
+Mean genetic distance 2.848, standard deviation 0.796
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   36    69   8205.2    0.918     8
+     2   35    64   8205.0    0.851     9
+     4   15    67   8204.9    0.887     0
+Total extinctions: 0
+Generation time: 96.954 sec (96.864 average)
+
+ ****** Running generation 37 ****** 
+
+Population's average fitness: 7446.06280 stdev: 1480.69619
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.883
+Mean genetic distance 2.827, standard deviation 0.822
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   37    67   8205.2    0.872     9
+     2   36    66   8205.0    0.904    10
+     4   16    66   8204.9    0.872     1
+Total extinctions: 0
+Generation time: 96.718 sec (97.081 average)
+
+ ****** Running generation 38 ****** 
+
+Population's average fitness: 7218.97947 stdev: 1736.75745
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.847
+Mean genetic distance 2.855, standard deviation 0.841
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   38    66   8205.2    0.841    10
+     2   37    67   8205.0    0.843    11
+     4   17    67   8204.9    0.857     0
+Total extinctions: 0
+Generation time: 95.236 sec (96.886 average)
+
+ ****** Running generation 39 ****** 
+
+Population's average fitness: 7321.22033 stdev: 1599.75146
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.863
+Mean genetic distance 2.858, standard deviation 0.803
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   39    67   8205.2    0.860    11
+     2   38    67   8205.0    0.862    12
+     4   18    65   8204.9    0.866     0
+Total extinctions: 0
+Generation time: 98.990 sec (97.149 average)
+Saving checkpoint to neat-checkpoint-39
+
+ ****** Running generation 40 ****** 
+
+Population's average fitness: 7307.30752 stdev: 1607.07413
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.861
+Mean genetic distance 2.810, standard deviation 0.764
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   40    68   8205.2    0.880    12
+     2   39    66   8205.0    0.835    13
+     4   19    66   8204.9    0.867     1
+Total extinctions: 0
+Generation time: 101.129 sec (97.425 average)
+
+ ****** Running generation 41 ****** 
+
+Population's average fitness: 7378.83811 stdev: 1548.44053
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.872
+Mean genetic distance 2.743, standard deviation 0.771
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   41    67   8205.2    0.878    13
+     2   40    67   8205.0    0.888    14
+     4   20    65   8204.9    0.850     2
+Total extinctions: 0
+Generation time: 95.150 sec (97.410 average)
+
+ ****** Running generation 42 ****** 
+
+Population's average fitness: 7289.66651 stdev: 1727.73587
+Best fitness: 8205.21085 - size: (99, 9) - species 1 - id 5620
+Average adjusted fitness: 0.858
+Mean genetic distance 2.810, standard deviation 0.763
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   42    66   8205.2    0.838    14
+     2   41    66   8205.0    0.852    15
+     4   21    67   8204.9    0.885     0
+Total extinctions: 0
+Generation time: 95.974 sec (97.476 average)
+
+ ****** Running generation 43 ****** 
+
+Population's average fitness: 7226.02344 stdev: 1706.16204
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+Average adjusted fitness: 0.846
+Mean genetic distance 2.840, standard deviation 0.813
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   43    67   8205.2    0.858    15
+     2   42    64   8205.3    0.829     0
+     4   22    69   8204.9    0.852     1
+Total extinctions: 0
+Generation time: 94.796 sec (97.387 average)
+Saving checkpoint to neat-checkpoint-43
+
+ ****** Running generation 44 ****** 
+
+Population's average fitness: 7550.67760 stdev: 1244.23544
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+Average adjusted fitness: 0.899
+Mean genetic distance 2.824, standard deviation 0.819
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   44    66   8205.2    0.903    16
+     2   43    66   8205.3    0.923     1
+     4   23    67   8204.9    0.871     0
+Total extinctions: 0
+Generation time: 95.550 sec (97.047 average)
+
+ ****** Running generation 45 ****** 
+
+Population's average fitness: 7272.78304 stdev: 1724.93492
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+Average adjusted fitness: 0.855
+Mean genetic distance 2.815, standard deviation 0.836
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   45    67   8205.2    0.871     0
+     2   44    68   8205.3    0.897     2
+     4   24    65   8204.9    0.798     1
+Total extinctions: 0
+Generation time: 95.888 sec (96.639 average)
+
+ ****** Running generation 46 ****** 
+
+Population's average fitness: 7321.15249 stdev: 1615.37784
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+Average adjusted fitness: 0.862
+Mean genetic distance 2.793, standard deviation 0.820
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   46    66   8205.2    0.860     1
+     2   45    67   8205.3    0.877     3
+     4   25    66   8204.9    0.849     2
+Total extinctions: 0
+Generation time: 99.475 sec (96.891 average)
+
+ ****** Running generation 47 ****** 
+
+Population's average fitness: 7340.06343 stdev: 1555.17369
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+Average adjusted fitness: 0.866
+Mean genetic distance 2.767, standard deviation 0.771
+Population of 199 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   47    67   8205.2    0.891     2
+     2   46    65   8205.3    0.821     4
+     4   26    67   8204.9    0.886     3
+Total extinctions: 0
+Generation time: 98.099 sec (97.029 average)
+Saving checkpoint to neat-checkpoint-47
+
+ ****** Running generation 48 ****** 
+
+Population's average fitness: 7346.77028 stdev: 1561.18445
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+Average adjusted fitness: 0.866
+Mean genetic distance 2.766, standard deviation 0.782
+Population of 200 members in 3 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   48    68   8205.2    0.908     3
+     2   47    64   8205.3    0.818     5
+     4   27    68   8204.9    0.873     4
+Total extinctions: 0
+Generation time: 96.958 sec (97.201 average)
+
+ ****** Running generation 49 ****** 
+
+Population's average fitness: 7330.92833 stdev: 1585.86939
+Best fitness: 8205.26303 - size: (103, 8) - species 2 - id 8482
+
+Species 4 with 68 members is stagnated: removing it
+Average adjusted fitness: 0.859
+Mean genetic distance 2.580, standard deviation 0.977
+Population of 200 members in 2 species:
+   ID   age  size  fitness  adj fit  stag
+  ====  ===  ====  =======  =======  ====
+     1   49   101   8205.2    0.851     4
+     2   48    99   8205.3    0.868     6
+Total extinctions: 0
+Generation time: 98.557 sec (97.158 average)
+CPU times: user 1h 19min 26s, sys: 2.18 s, total: 1h 19min 28s
+Wall time: 1h 19min 33s
