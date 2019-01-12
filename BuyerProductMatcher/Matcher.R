@@ -1,65 +1,6 @@
-#This script is for creating a Buyer-Product matching mechanism for classifieds 
-
-#Loading dependencies
-library(RCurl)
-library(rvest)
-
-#Setting a few options for smooth Curl Operations
-options(HTTPUserAgent = "Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; ADR6400L 4G Build/FRG83D)")
-cert <- system.file("CurlSSL", "cacert.pem", package = "RCurl")
-
-#Collecting Data on motorcycles
-df = data.frame()
-for (i in 2:90){
-       
-        address <- paste("https://www.olx.com.pk/motorcycles/?page=",i, sep = "")
-        
-        rawdata <- getURL(address,cainfo = cert)
-        
-        gob <- read_html(rawdata)
-        product <- html_nodes(gob, xpath = "//h3/a/span") %>% html_text()
-        value <- html_nodes(gob, "strong") %>% html_text()
-        
-        #Data cleaning in the loop structure
-        value <- gsub("\t", "", value)
-        value <- gsub("\n", "", value)
-        value <- value[grep("Rs", value)]
-        value <- gsub("Rs ", "", value)
-        value <- gsub(",","", value)
-        value <- as.numeric(value)
-        
-        combined <- data.frame(product,value)
-        df <- rbind(df,combined)
-        Sys.sleep(5) #Good practice when scraping
-        }
-
-#Colecting data on cars (didnt use it at the end)
-df2 = data.frame()
-for (i in 2:90){
-        
-        address <- paste("https://www.olx.com.pk/cars/?page=",i, sep = "")
-        
-        rawdata <- getURL(address,cainfo = cert)
-        
-        gob <- read_html(rawdata)
-        product <- html_nodes(gob, xpath = "//h3/a/span") %>% html_text()
-        value <- html_nodes(gob, "strong") %>% html_text()
-        value <- gsub("\t", "", value)
-        value <- gsub("\n", "", value)
-        value <- value[grep("Rs", value)]
-        value <- gsub("Rs ", "", value)
-        value <- gsub(",","", value)
-        value <- as.numeric(value)
-        
-        combined <- data.frame(product,value)
-        df2 <- rbind(df2,combined)
-        Sys.sleep(5)
-}
-
-#-----------------------------------------------------------------------------------------
-
-#df <- read.csv("motorcycles.csv", stringsAsFactors = F)
-#df2 <- read.csv("cars.csv", stringsAsFactors = F)
+#Reading Data Files
+df <- read.csv("motorcycles.csv", stringsAsFactors = F)
+df2 <- read.csv("cars.csv", stringsAsFactors = F)
 
 
 #Making data usable for Bag-of-Words 
@@ -120,7 +61,7 @@ library(class)
 wss <- numeric(40)
 for (i in 2:40) {wss[i] <- sum(kmeans(df_m.train, centers=i)$withinss)}
 plot(1:40, wss, type="b", col = 'red', xlab="Number of Clusters", ylab="Within groups sum of squares")
-        #best option appears 25. Thats where the plateau starts. Also, for each cluster we will have 120 cases. Each buyer will have 120 best matches. 
+#best option appears 25. Thats where the plateau starts. Also, for each cluster we will have 120 cases. Each buyer will have 120 best matches. 
 
 #Making clusters and adding labels to data
 k.fit <- kmeans(df_m.train,centers = 25)
@@ -144,7 +85,6 @@ preds[1:5]
 
 #Checking recommendations to one buyer
 example <- df_m[3003,]
-        #Super power 2016
+#Super power 2016
 df_m.train[df_m.train$label == 15,]
 (df_m.train[df_m.train$label == 15,])
-
