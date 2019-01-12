@@ -1,4 +1,5 @@
 # Buyer Product Matcher
+***
 
 In this project text, price and product data of several ads was scraped from a local classifieds website and then an ad. recommendation framework was created. The buyer product matcher looks at the search query posted by a buyer and matches it to current ads available in a database. This is a preliminary framework that can be improved upon. All code present in this repository was written by **Syed Fazeel Ahmed**.
 
